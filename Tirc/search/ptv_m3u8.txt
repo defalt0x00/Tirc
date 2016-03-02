@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1,RTP 1
+http://noscdn1.connectedviews.com:1935/live/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1,RTP 2
+http://noscdn1.connectedviews.com:1935/live/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1,RTP INFORMAÇÃO
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
+#EXTINF:-1,RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1,RTP ÁFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1,RTP MEMÓRIA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1,RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1,SIC
+http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
+#EXTINF:-1,SIC NOTÍCIAS
+http://213.13.26.7:1936/live/_definst_/sicnoticias/magellan.m3u8
+#EXTINF:-1,TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/livestream.m3u8
+#EXTINF:-1,TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
+#EXTINF:-1,TPA
+http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
+#EXTINF:-1,ECONÓMICO TV
+http://213.13.26.7:1936/live/etv_direto/livestream.m3u8
+#EXTINF:-1,ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
+#EXTINF:-1,BBC WORLD NEWS
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1,CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1,VH1 PT
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8
+#EXTINF:-1,TV GLOBO
+http://62.210.89.38:1935/liverepeat/101010/live.m3u8
+#EXTINF:-1,TV RECORD
+http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8
+#EXTINF:-1,SPORT TV 1
+http://95.136.66.53:8080/SPORTTV1TEST.ts
+#EXTINF:-1,SPORT TV 4 
+http://sec102.gr.nimitv.net/psh_gr2/sport_19/chunklist.m3u8?etime=20150301115144&hash=0f04dca34469a8d22380a
+#EXTINF:-1,SPORT TV AMERICAS
+http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+#EXTINF:-1,BENFICA TV 1 
+http://ak-portuguese-us-pt-stream.fubo.tv/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b2628000.m3u8
+#EXTINF:-1,BENFICA TV 2
+http://sec102.gr.nimitv.net/psh_gr2/sport_21/chunklist.m3u8?etime=20150301115159&hash=00babf673e669ceabca7a
+#EXTINF:-1,MTV HITS
+http://92.50.181.6/tv/1278/index.m3u8
+#EXTINF:-1,MTV DANCE
+http://92.50.181.6/tv/1280/index.m3u8
+#EXTINF:-1,GINX
+http://204.107.26.252:1935/live/796.high.stream/HasBahCa.m3u8
+#EXTINF:-1,FASHION TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://46.61.226.18/hls/CH_C05_FOOD/bw1500000/variant.m3u8?version=2
+#EXTINF:-1,M6
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
+#EXTINF:-1,MOTORS TV
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MOTORSTV/variant.m3u8?version=02
+#EXTINF:-1,REAL MADRID TV 
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,SEX 18+
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:-1,PASSIE 18+
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+#EXTINF:-1,BLUE HUSTLER 18+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2

@@ -1,0 +1,603 @@
+#EXTM3U
+
+#EXTINF:0, 2STV SENEGAL
+http://myafricanmega3.tulix.tv:1935/map-2stvroku/map-2stvroku/playlist.m3u8
+#EXTINF:0, 3STONES
+http://astvstream1.tulix.tv/3stones/3stones.stream/playlist.m3u8
+#EXTINF:0, ABC NEWS HD
+http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8
+#EXTINF:0, ABK
+http://astvstream1.tulix.tv/sat-abk/mp4:sat-abk.stream/playlist.m3u8 
+#EXTINF:0, ABN
+http://astvstream1.tulix.tv/abntv/abntv.stream/playlist.m3u8 
+#EXTINF:0, ACTION ADVENTURE
+http:astvstream1.tulix.tv/astvmovies-aa/astvmovies-aa.stream/playlist.m3u8 
+#EXTINF:0, ADOM TV
+http://astvstream1.tulix.tv/adomtv/ext-adomtv.stream/playlist.m3u8 
+#EXTINF:0, AFRICA NEWS NETWORK
+http://196.33.130.34/live-ann7/ann7-hi.stream/playlist.m3u8 
+#EXTINF:0, AFRICA24
+http://astvstream1.tulix.tv/africa24/mp4:africa24/playlist.m3u8 
+#EXTINF:0, AFRICA24
+http://myafricanmega3.tulix.tv:1935/africa24/africa24.stream/playlist.m3u8 
+#EXTINF:0, AFRICABLE 1
+http://astvstream1.tulix.tv/africable/mp4:africable/playlist.m3u8 
+#EXTINF:0, AFRICABLE 2
+http://myafricanmega4.tulix.tv:1935/map-africableroku/map-africableroku.stream/playlist.m3u8 
+#EXTINF:0, AFRICABOX MUSIC
+http://astvstream3.tulix.tv/africabox/africabox/playlist.m3u8 
+#EXTINF:0, AFRICAN MOVIES
+http://astvstream1.tulix.tv/afmoviech/mp4:afmoviech.stream/playlist.m3u8 
+#EXTINF:0, AFRIQUE MEDIA
+http://astvstream1.tulix.tv/afrique/mp4:afmed.stream/playlist.m3u8 
+#EXTINF:0, AFROMUSIC
+http://10gb10.tulix.tv/live_hls/afromusic/afromusic.m3u8 
+#EXTINF:0, AIT NEWS
+http://astvstream1.tulix.tv/aitint/mp4:ext_aitint.stream/playlist.m3u8 
+#EXTINF:0, AL HADEETH
+http://astvstream1.tulix.tv/almajdalhadeeth/mp4:almajdalhadeeth/playlist.m3u8 
+#EXTINF:0, ALJAZEERA ARABIC
+http://astvstream1.tulix.tv/aljazeeraar/mp4:aljazeeraar/playlist.m3u8 
+#EXTINF:0, ALJAZEERA ENGLISH
+http://astvstream1.tulix.tv/aljazeeraeng/mp4:aljazeeraeng/playlist.m3u8 
+#EXTINF:0, ALL MUSIC
+http://68.71.42.179/live/livestream1/playlist.m3u8
+#EXTINF:0, ALMAJD
+http://astvstream1.tulix.tv/almajdreligious/mp4:almajdreligious/playlist.m3u8 
+#EXTINF:0, ALQURAN
+http://208.75.224.165:1935/map-alquraan/map-alquraan.stream/playlist.m3u8 
+#EXTINF:0, ALQURAN
+http://208.75.224.165:1935/map-alquraan/map-alquraan.stream/playlist.m3u8 
+#EXTINF:0, ALSUNNAH
+http://astvstream1.tulix.tv/alsunnah/mp4:alsunnah/playlist.m3u8 
+#EXTINF:0, ALSUNNAH
+http://myafricanmega.tulix.tv:1935/map-alsunnah/map-alsunnah.stream/playlist.m3u8 
+#EXTINF:0, ANIMAUX TV
+http://astvstream1.tulix.tv/animaux/animaux/playlist.m3u8 
+#EXTINF:0, AREWA24
+http://astvstream1.tulix.tv/ext-arewa24/mp4:ext-arewa24.stream/playlist.m3u8 
+#EXTINF:0, ATV GHANA
+http://astvstream1.tulix.tv/amantv/ext-amantv.stream/playlist.m3u8 
+#EXTINF:0, BB24
+http://astvstream1.tulix.tv/ext-bb24/ext-bb24.stream/playlist.m3u8 
+#EXTINF:0, BBC NEWS
+http://astvstream1.tulix.tv/bbcnews/mp4:bbcnews.stream/playlist.m3u8 
+#EXTINF:0, BBC WORLD
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8 
+#EXTINF:0, BEINSPORT BEST
+http://astvstream1.tulix.tv/beinsportbest/beinsportbest/playlist.m3u8 
+#EXTINF:0, BEINSPORT ENGLISH
+http://astvstream1.tulix.tv/beinsportplus/mp4:beinsportplus.stream/playlist.m3u8 
+#EXTINF:0, BEINSPORT ENGLISH
+http://myafricanmega3.tulix.tv:1935/map-beinsports/map-beinsports.stream/playlist.m3u8 
+#EXTINF:0, BEINSPORT HD 2 FRENCH
+http://myafricanmega3.tulix.tv:1935/map-beinsports2hd/map-beinsports2hd/playlist.m3u8 
+#EXTINF:0, BEINSPORT HD1 FRENCH
+http://myafricanmega3.tulix.tv:1935/map-beinsports1hd/map-beinsports1hd/playlist.m3u8 
+#EXTINF:0, BEINSPORT PREMIERE
+http://astvstream1.tulix.tv/beinsportspremiere/beinsportspremiere/playlist.m3u8 
+#EXTINF:0, BEN TV
+http://astvstream1.tulix.tv/bentv/mp4:bentv/playlist.m3u8 
+#EXTINF:0, BFM TV
+http://astvstream1.tulix.tv/bfmtv/mp4:sat-bfmtv/playlist.m3u8 
+#EXTINF:0, BLOOMBERG EUROPE
+http://myafricanmega3.tulix.tv:1935/map-bloombergeu/bloomberg/playlist.m3u8 
+#EXTINF:0, BOLLYWOOD CINEMA
+http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/bollywood_cinema_2-tablet.3gp.m3u8 
+#EXTINF:0, BOLLYWOOD MOVIES
+http://astvstream1.tulix.tv/bollywood/mp4:bollywood/playlist.m3u8 
+#EXTINF:0, BT SPORT 1
+http://astvstream1.tulix.tv/btsport1/btsport1.stream/playlist.m3u8 
+#EXTINF:0, BT SPORT 2
+http://astvstream1.tulix.tv/btsport2/btsport2.stream/playlist.m3u8 
+#EXTINF:0, BURKINA INFO
+http://astvstream1.tulix.tv/infoburkina/infoburkina/playlist.m3u8 
+#EXTINF:0, CANAL+
+http://astvstream1.tulix.tv/canalplusfr/mp4:canalplusfr.stream/playlist.m3u8 
+#EXTINF:0, CANAL+FAMILY
+http://astvstream1.tulix.tv/canalplusfamily/canalplusfamily.stream/playlist.m3u8 
+#EXTINF:0, CANAL+SPORT
+http://astvstream1.tulix.tv/canalplus/mp4:canalplus.stream/playlist.m3u8 
+#EXTINF:0, CANAL2 INTERNATIONAL
+http://canal2-p.cdn.hexaglobe.net/streaming/canal2_c2inte/iphone.m3u8 
+#EXTINF:0, CANAL3 MONDE 
+http://myafricanmega4.tulix.tv:1935/map-canal3b/mp4:map-canal3b.stream 
+#EXTINF:0, CARTOON FRENCH
+http://astvstream1.tulix.tv/cartoonnet/cartoonnet/playlist.m3u8 
+#EXTINF:0, CARTOON NETWORK USA
+http://astvstream1.tulix.tv/cartoonnetwork/cartoonnetwork.stream/playlist.m3u8 
+#EXTINF:0, CCTV 9
+http://myafricanmega3.tulix.tv:1935/map-cctv9doc/map-cctv9doc/playlist.m3u8 
+#EXTINF:0, CINE POLAR
+http://astvstream1.tulix.tv/cinepolar/cinepolar.stream/playlist.m3u8 
+#EXTINF:0, CINEAFRIK
+http://astvstream1.tulix.tv/cineafrik/mp4:ext-cineafrik.stream/playlist.m3u8 
+#EXTINF:0, CNBC NEWS
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8 
+#EXTINF:0, CNN INTERNATIONAL
+http://astvstream1.tulix.tv/cnnint/mp4:cnnint.stream/playlist.m3u8 
+#EXTINF:0, CNN INTERNATIONAL
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8 
+#EXTINF:0, COMEDY LIVE
+http://astvstream1.tulix.tv/astvmovies-c/astvmovies-c.stream/playlist.m3u8 
+#EXTINF:0, CONGO DIGITAL
+http://astvstream1.tulix.tv/digitalc/mp4:dcc.stream/playlist.m3u8 
+#EXTINF:0, CRTV
+http://astvstream1.tulix.tv/crtvtv/mp4:crtvtv.stream/playlist.m3u8 
+#EXTINF:0, CRTV CAMEROON
+http://myafricanmega3.tulix.tv:1935/map-crtvroku/map-crtvroku/playlist.m3u8 
+#EXTINF:0, Channel33
+http://astvstream1.tulix.tv/znbc2/znbctv2.stream/playlist.m3u8 
+#EXTINF:0, Channel86
+http://astvstream1.tulix.tv/disneyjunior/disneyjunior.stream/playlist.m3u8 
+#EXTINF:0, D17
+http://astvstream1.tulix.tv/d17tv/d17tv/playlist.m3u8 
+#EXTINF:0, D24 SENEGAL
+http://astvstream1.tulix.tv/telebi/mp4:telebi-tx.stream/playlist.m3u8 
+#EXTINF:0, DAYSTAR CHRISTIAN
+http://myafricanmega3.tulix.tv:1935/map-daystar/map-daystar/playlist.m3u8 
+#EXTINF:0, DIGITAL CONGO
+http://myafricanmega.tulix.tv:1935/map-dcongo/map-dcongotv.stream/playlist.m3u8 
+#EXTINF:0, DISCOVERY CHANNEL
+http://astvstream1.tulix.tv/discoverychannel/discoverychannel.stream/playlist.m3u8 
+#EXTINF:0, DISCOVERY SCIENCE
+http://astvstream1.tulix.tv/discoveryscience/discoveryscience.stream/playlist.m3u8 
+#EXTINF:0, DISCOVERY SCIENCE
+http://astvstream1.tulix.tv/discoveryscience/discoveryscience.stream/playlist.m3u8 
+#EXTINF:0, DISNEY JUNIOR
+http://astvstream1.tulix.tv/disneyjunior/disneyjunior.stream/playlist.m3u8 
+#EXTINF:0, DRAMA &ROMANCE
+http://astvstream1.tulix.tv/astvmovies-dr/astvmovies-dr.stream/playlist.m3u8 
+#EXTINF:0, DUBAI SPORT ENGLISH
+http://astvstream1.tulix.tv/dubai-sport2/dubai-sport2.stream/playlist.m3u8 
+#EXTINF:0, DUBAI TV
+http://astvstream1.tulix.tv/dubaitv/mp4:dubaitv.stream/playlist.m3u8 
+#EXTINF:0, DW-TV
+http://www.metafilegenerator.de/DWelle/tv-europa/ios/master.m3u8 
+#EXTINF:0, EBC2 ETHIOPIA
+http://myafricanmega3.tulix.tv:1935/map-ebc2/map-ebc2/playlist.m3u8 
+#EXTINF:0, EBONYLIFE
+http://astvstream1.tulix.tv/ebonylife/mp4:ebonylife.stream/playlist.m3u8 
+#EXTINF:0, EMMANUEL TV
+http://myafricanmega3.tulix.tv:1935/map-emmanuel/map-emmanuel.stream/playlist.m3u8 
+#EXTINF:0, EQUINOXE
+http://astvstream3.tulix.tv/equinoxe/equinoxe/playlist.m3u8 
+#EXTINF:0, EQUINOXE TV CAMEROON
+http://myafricanmega3.tulix.tv:1935/map-equinoxe/map-equinoxe/playlist.m3u8 
+#EXTINF:0, ESPACE TV GUINEE
+http://astvstream3.tulix.tv/espace/espace/playlist.m3u8 
+#EXTINF:0, ESPACE TV GUINEE
+http://myafricanmega4.tulix.tv:1935/map-espace/map-espace/playlist.m3u8 
+#EXTINF:0, ESTV ETHIOPIA
+http://myafricanmega3.tulix.tv:1935/map-estv/map-estv/playlist.m3u8 
+#EXTINF:0, EURONEWS ENGLISH
+http://astvstream1.tulix.tv/euronews/mp4:euronews.stream/playlist.m3u8 
+#EXTINF:0, EURONEWS ENGLISH
+http://myafricanmega3.tulix.tv:1935/map-euronewsen/map-euronewsen/playlist.m3u 
+#EXTINF:0, EURONEWS ENGLISH
+http://myafricanmega3.tulix.tv:1935/map-euronewsen/map-euronewsen/playlist.m3u 
+#EXTINF:0, EURONEWS FRENCH
+http://astvstream1.tulix.tv/euronewsf/mp4:euronewsf/playlist.m3u8 
+#EXTINF:0, EUROSPORT ENGLISH HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8 
+#EXTINF:0, EVASION TV GUINEE
+http://astvstream1.tulix.tv/evasion/mp4:evasion.stream/playlist.m3u8 
+#EXTINF:0, EWTN
+http://myafricanmega3.tulix.tv:1935/map-ewtn/map-ewtn.stream/playlist.m3u8 
+#EXTINF:0, FAMILY MOVIES
+http://astvstream1.tulix.tv/astvmovies-f/astvmovies-f.stream/playlist.m3u8 
+#EXTINF:0, FASHION AFRICA
+http://astvstream1.tulix.tv/fashionafrica/mp4:fashionafrica.stream/playlist.m3u8 
+#EXTINF:0, FOOT+
+http://astvstream1.tulix.tv/foot24/foot24.stream/playlist.m3u8 
+#EXTINF:0, FOX MOVIES
+http://astvstream1.tulix.tv/foxmovies/foxmovies.stream/playlist.m3u8 
+#EXTINF:0, FOX SOCCER PLUS
+http://myafricanmega3.tulix.tv:1935/map-sportsplusafr/map-sportsplusafr/playlist.m3u8 
+#EXTINF:0, FRANCE 2
+http://astvstream1.tulix.tv/france2/france2/playlist.m3u8 
+#EXTINF:0, FRANCE 2
+http://astvstream1.tulix.tv/france2/france2/playlist.m3u8 
+#EXTINF:0, FRANCE 24
+http://astvstream1.tulix.tv/france24/mp4:france24/playlist.m3u8 
+#EXTINF:0, FRANCE 24 ENGLISH
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_1200.m3u8 
+#EXTINF:0, FRANCE 24 HD
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_1200.m3u8 
+#EXTINF:0, FRANCE 3
+http://astvstream1.tulix.tv/france3/france3/plalist.m3u8 
+#EXTINF:0, FRANCE 4
+http://astvstream1.tulix.tv/france4/france4/playlist.m3u8 
+#EXTINF:0, FRANCE 5
+http://astvstream1.tulix.tv/france5/france5/playlist.m3u8 
+#EXTINF:0, FRANCE O
+http://astvstream1.tulix.tv/france0/france0/playlist.m3u8 
+#EXTINF:0, GABON TELE
+http://astvstream3.tulix.tv/gabon/gabon/playlist.m3u8 
+#EXTINF:0, GABON TV
+http://myafricanmega.tulix.tv:1935/map-gabon/map-gabontv.stream/playlist.m3u8 
+#EXTINF:0, GF1TV
+http://astvstream1.tulix.tv/gf1tv/gf1tv.stream/playlist.m3u8 
+#EXTINF:0, GHANA 3
+http://astvstream3.tulix.tv/gtvtv/gtvtv/playlist.m3u8 
+#EXTINF:0, GHANA ONE
+http://astvstream1.tulix.tv/ghone/mp4:ext-ghone.stream/playlist.m3u8 
+#EXTINF:0, GHANA TV
+http://myafricanmega3.tulix.tv:1935/ghanatv/ghanatv.stream/playlist.m3u8 
+#EXTINF:0, GRTS
+http://astvstream1.tulix.tv/grtstv/mp4:grts.stream/playlist.m3u8 
+#EXTINF:0, GRTS GAMBIA
+http://myafricanmega.tulix.tv:1935/map-grtsroku/mp4:map-grtsroku.stream/playlist.m3u8 
+#EXTINF:0, GTV
+http://astvstream3.tulix.tv/gtvtv/gtvtv/playlist.m3u8 
+#EXTINF:0, GUINEE MUSIC
+http://astvstream1.tulix.tv/telemusikguinee/telemusikguinee.stream/playlist.m3u8 
+#EXTINF:0, GULLI FR
+http://astvstream1.tulix.tv/gullifr/gullifr/playlist.m3u8 
+#EXTINF:0, HAIDARA CHERIFIA TV
+http://astvstream1.tulix.tv/malinewtv/malinewtv.stream/playlist.m3u8 
+#EXTINF:0, HIP HOP TV
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8 
+#EXTINF:0, HISTORY CHANNEL
+http://astvstream1.tulix.tv/history/history.stream/playlist.m3u8 
+#EXTINF:0, HOLY QURAN
+http://astvstream1.tulix.tv/almajdholyquran/mp4:almajdholyquran/playlist.m3u8 
+#EXTINF:0, IFILM
+http://myafricanmega3.tulix.tv:1935/map-ifilm/map-ifilm.stream/playlist.m3u8 
+#EXTINF:0, INFOSPORT+
+http://astvstream1.tulix.tv/infosport/infosport.stream/playlist.m3u8 
+#EXTINF:0, K24
+http://astvstream1.tulix.tv/k24tv/mp4:k24tv.stream/playlist.m3u8 
+#EXTINF:0, KISS TV HD
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chunklist_w.m3u8 
+#EXTINF:0, KTN KENYA
+http://myafricanmega3.tulix.tv:1935/map-ktnroku/map-ktnroku/playlist.m3u8 
+#EXTINF:0, LAMPFALL
+http://astvstream1.tulix.tv/lampfall/mp4:lampfall.stream/playlist.m3u8 
+#EXTINF:0, LC2 MUSIC
+http://astvstream1.tulix.tv/l2ctv/l2c.stream/playlist.m3u8 
+#EXTINF:0, M6 HD
+http://astvstream1.tulix.tv/ext-m6tv/mp4:m6hd.stream/playlist.m3u8 
+#EXTINF:0, MAISHA TELE
+http://astvstream3.tulix.tv/maisha/maisha/playlist.m3u8 
+#EXTINF:0, MAISHA TV
+http://myafricanmega3.tulix.tv:1935/map-maisha/map-maisha/playlist.m3u8 
+#EXTINF:0, MANGAS TV
+http://astvstream1.tulix.tv/mangas/mangas/playlist.m3u8 
+#EXTINF:0, MAURITANIA
+http://myafricanmega.tulix.tv:1935/map-mauritania/map-mauritania/playlist.m3u8 
+#EXTINF:0, MAURITANIE
+http://astvstream1.tulix.tv/mauritanie/mp4:mauritanie/playlist.m3u8 
+#EXTINF:0, MEDI TV
+http://astvstream1.tulix.tv/medibiz/mp4:medibiz.stream/playlist.m3u8 
+#EXTINF:0, MOURIDE TV
+http://myafricanmega.tulix.tv:1935/map-mouride/mouridetv/playlist.m3u8 
+#EXTINF:0, MOVIES PREMIERE
+http://astvstream1.tulix.tv/astvmovies-p/astvmovies-p.stream/playlist.m3u8 
+#EXTINF:0, NATIONAL GEOGRAPHIC WILD
+http://astvstream1.tulix.tv/natgeowild/natgeowild.stream/playlist.m3u8 
+#EXTINF:0, NEWS CHANNEL
+http://astvstream1.tulix.tv/ext-channels/mp4:ext-channels.stream/playlist.m3u8 
+#EXTINF:0, NEWS DEBAT AFRIQUE
+http://astvstream1.tulix.tv/sikka/sikka/playlist.m3u8 
+#EXTINF:0, NHK JAPAN
+http://myafricanmega3.tulix.tv:1935/map-nhkjapan/map-nhkjapan/playlist.m3u8 
+#EXTINF:0, NJR12
+http://astvstream1.tulix.tv/nrj12/nrj12/playlist.m3u8 
+#EXTINF:0, NOLLY WAP MOVIES
+http://astvstream3.tulix.tv/waptv/wap.stream/playlist.m3u8 
+#EXTINF:0, NOLLYWOOD MAGIC
+http://astvstream3.tulix.tv/africamagic/africamagic/playlist.m3u8 
+#EXTINF:0, NOLLYWOOD PREMIUM
+http://astvstream1.tulix.tv/nollywoodpre/mp4:nollywoodpre/playlist.m3u8 
+#EXTINF:0, NOLLYWOOD PREMIUM HD
+http://myafricanmega3.tulix.tv:1935/map-nollywoodroku/map-nollywood-roku/playlist.m3u8 
+#EXTINF:0, NTV
+http://astvstream1.tulix.tv/ntvuga/mp4:sat-ntvuga/playlist.m3u8 
+#EXTINF:0, NTV
+http://astvstream1.tulix.tv/ntv/ntv.stream/playlist.m3u8 
+#EXTINF:0, OH AFRICA
+http://astvstream1.tulix.tv/oh-tv/oh-tv.stream/playlist.m3u8 
+#EXTINF:0, OROMIYAA ETHIOPIA
+http://myafricanmega3.tulix.tv:1935/map-oromiyaa/map-oromiyaa/playlist.m3u8 
+#EXTINF:0, ORTB
+http://myafricanmega.tulix.tv:1935/map-ortb/mp4:map-ortbroku.stream/playlist.m3u8 
+#EXTINF:0, ORTB BENIN
+http://astvstream1.tulix.tv/ortbtv/mp4:ortbtv.stream/playlist.m3u8 
+#EXTINF:0, ORTM
+http://astvstream1.tulix.tv/ortmtv/mp4:ortmtv.stream/playlist.m3u8 
+#EXTINF:0, ORTM MALI
+http://208.75.224.165:1935/map-ortmroku/map-ortmroku.stream/playlist.m3u8 
+#EXTINF:0, PEACE TV UK
+http://astvstream1.tulix.tv/peacetvuk/mp4:peacetvuk/playlist.m3u8 
+#EXTINF:0, QTV
+http://astvstream1.tulix.tv/qtv/qtv.stream/playlist.m3u8 
+#EXTINF:0, R2TV
+http://astvstream1.tulix.tv/ext-r2tv/ext-r2tv.stream/playlist.m3u8 
+#EXTINF:0, RT NEWS
+http://myafricanmega3.tulix.tv:1935/map-russiatoday/russiatoday.stream/playlist.m3u8 
+#EXTINF:0, RTB
+http://188.138.102.196:1935/acantv/af/rtb.stream/playlist.m3u8 
+#EXTINF:0, RTB BURKINA
+http://astvstream1.tulix.tv/rtbtv/mp4:rtb.stream/playlist.m3u8 
+#EXTINF:0, RTB BURKINA
+http://myafricanmega4.tulix.tv:1935/map-rtbroku/mp4:map-rtbroku/playlist.m3u8 
+#EXTINF:0, RTG
+http://myafricanmega4.tulix.tv:1935/map-rtgroku/mp4:map-rtgroku.stream/playlist.m3u8 
+#EXTINF:0, RTG GUINEE
+http://astvstream1.tulix.tv/rtgtv/mp4:rtgtv.stream/playlist.m3u8 
+#EXTINF:0, RTGA
+http://astvstream1.tulix.tv/rtgatv/mp4:rtga.stream/playlist.m3u8 
+#EXTINF:0, RTI1
+http://myafricanmega.tulix.tv:1935/map-rti1roku/mp4:map-rti1roku/playlist.m3u8 
+#EXTINF:0, RTI1
+http://astvstream1.tulix.tv/rti1tv/mp4:rti1tv.stream/playlist.m3u8 
+#EXTINF:0, RTI2
+http://myafricanmega.tulix.tv:1935/map-rti2/map-rti2.stream/playlist.m3u8 
+#EXTINF:0, RTI2
+http://astvstream1.tulix.tv/rti2tv/mp4:rti2tv.stream/playlist.m3u8 
+#EXTINF:0, RTI2
+http://myafricanmega.tulix.tv:1935/map-rti2/map-rti2.stream/playlist.m3u8 
+#EXTINF:0, RTL9
+http://streaming-hub.com/tv/i/rtl9_1@97354/index_1300_av-p.m3u8 
+#EXTINF:0, RTL9
+http://streaming-hub.com/tv/i/rtl9_1@97354/index_1300_av-p.m3u8 
+#EXTINF:0, RTNC
+http://myafricanmega4.tulix.tv:1935/map-rtncroku/mp4:map-rtncroku.stream/playlist.m3u8 
+#EXTINF:0, RTP INTERNATIONAL
+http://astvstream1.tulix.tv/rtpitv/mp4:rtpitv.stream/playlist.m3u8 
+#EXTINF:0, RTS1
+http://astvstream1.tulix.tv/rts1tv/mp4:rts1tv/playlist.m3u8 
+#EXTINF:0, SAHEL TV
+http://astvstream1.tulix.tv/latvdusahel/mp4:latvdusahel/playlist.m3u8 
+#EXTINF:0, SAKINAH ENGLISH ISLAM
+http://astvstream1.tulix.tv/sakinahtv/sakinahtv/playlist.m3u8 
+#EXTINF:0, SALAM TV
+http://astvstream1.tulix.tv/salamtv/salamtv.stream/playlist.m3u8 
+#EXTINF:0, SAUDI 1
+http://74.50.103.199:1935/live?v=3160815557/scsaud1/playlist.m3u8 
+#EXTINF:0, SAUDI 2
+http://74.50.103.199:1935/live?v=3160815557/scsaud2/playlist.m3u8 
+#EXTINF:0, SAUDI QURAN TV
+http://46.245.160.224/mekke/mekke/master.m3u8 
+#EXTINF:0, SAUDI SUNNAH TV
+http://myafricanmega.tulix.tv:1935/map-alsunnah/map-alsunnah.stream/playlist.m3u8 
+#EXTINF:0, SAUDIQURAN
+http://astvstream1.tulix.tv/saudiquran/mp4:saudiquran.stream/playlist.m3u8 
+#EXTINF:0, SCIENCE FICTION HORROR
+http://astvstream1.tulix.tv/astvmovies-sh/astvmovies-sh.stream/playlist.m3u8 
+#EXTINF:0, SEN TV
+http://myafricanmega4.tulix.tv:1935/map-sentv/mp4:map-sentv/playlist.m3u8 
+#EXTINF:0, SEN TV SENEGAL
+http://astvstream1.tulix.tv/sentv/mp4:sentv.stream/playlist.m3u8 
+#EXTINF:0, SILVERBIRD
+http://astvstream1.tulix.tv/silverbird/mp4:sat-silverbird.stream/playlist.m3u8 
+#EXTINF:0, SKY SPORT 2
+http://astvstream1.tulix.tv/sky2tv/sky2tv/playlist.m3u8 
+#EXTINF:0, SKY SPORT 4
+http://astvstream1.tulix.tv/skysports4/skysports4/playlist.m3u8 
+#EXTINF:0, SKY SPORT1
+http://astvstream1.tulix.tv/sky1tv/sky1tv/playlist.m3u8 
+#EXTINF:0, SLBC
+http://myafricanmega3.tulix.tv:1935/map-slbcroku/map-slbcroku/playlist.m3u8 
+#EXTINF:0, SLBC SIERRA LEONE
+http://astvstream1.tulix.tv/slbctv/mp4:slbctv.stream/playlist.m3u8 
+#EXTINF:0, SOMALIA HCTV
+http://162.212.176.83:8080/hctvgermany.m3u8 
+#EXTINF:0, SOUNDCITY
+http://astvstream1.tulix.tv/soundcityprem/mp4:sat-soundcityprem/playlist.m3u8 
+#EXTINF:0, SOUTH SUDAN
+http://208.75.224.165:1935/map-ssudan/map-ssudan.stream/playlist.m3u8 
+#EXTINF:0, SPORTSNET NOW USA
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_3000_ipad.m3u8 
+#EXTINF:0, STV CAMEROON
+http://astvstream1.tulix.tv/stvtv/mp4:ext-stv.stream/playlist.m3u8 
+#EXTINF:0, SUDAN TELE
+http://208.75.224.165:1935/map-sudan/map-sudan.stream/playlist.m3u8 
+#EXTINF:0, SUPER SPORT 3
+http://astvstream3.tulix.tv/ssporthd3/ssporthd3/playlist.m3u8 
+#EXTINF:0, SUPER SPORT PLUS
+http://astvstream1.tulix.tv/ext-supersportplus/ext-supersportplus.stream/playlist.m3u8 
+#EXTINF:0, TELE 50
+http://astvstream1.tulix.tv/tele50/mp4:tele50.stream/playlist.m3u8 
+#EXTINF:0, TELE 50
+http://myafricanmega.tulix.tv:1935/map-tele50/map-tele50/playlist.m3u8 
+#EXTINF:0, TELE CONGO
+http://astvstream1.tulix.tv/telecongo/mp4:telecongo.stream/playlist.m3u8 
+#EXTINF:0, TELE CONGO
+http://myafricanmega.tulix.tv:1935/map-telecongo/mp4:map-telecongo.stream/playlist.m3u8 
+#EXTINF:0, TELE TCHAD
+http://astvstream1.tulix.tv/teletchad/mp4:teletchad/playlist.m3u8 
+#EXTINF:0, TELESAHEL
+http://astvstream1.tulix.tv/telesahel/mp4:telesahel.stream/playlist.m3u8 
+#EXTINF:0, TELESUD
+http://astvstream1.tulix.tv/telesud/mp4:telesud.stream/playlist.m3u8 
+#EXTINF:0, TF1 HD
+http://astvstream1.tulix.tv/ext-tfltv/mp4:ext-tf1tv.stream/playlist.m3u8 
+#EXTINF:0, TFM
+http://astvstream1.tulix.tv/tfmtv/mp4:tfm.stream/playlist.m3u8 
+#EXTINF:0, TFM SENEGAL
+http://myafricanmega3.tulix.tv:1935/map-tfmroku/map-tfmroku/playlist.m3u8 
+#EXTINF:0, THEATRE GUINEE
+http://astvstream1.tulix.tv/westafricamedia/westafricamedia.stream/playlist.m3u8 
+#EXTINF:0, TM2
+http://astvstream3.tulix.tv/tm2tv/tm2tv/playlist.m3u8 
+#EXTINF:0, TM2
+http://188.138.102.196:1935/acantv/af/tm2.stream//playlist.m3u8 
+#EXTINF:0, TM2
+http://myafricanmega3.tulix.tv:1935/map-tm2/map-tm2/playlist.m3u8 
+#EXTINF:0, TMC TV
+http://astvstream1.tulix.tv/tmctv/tmctv/playlist.m3u8 
+#EXTINF:0, TPA
+http://astvstream1.tulix.tv/tpaint/mp4:tpaint.stream/playlist.m3u8 
+#EXTINF:0, TRACEAFRICA
+http://astvstream1.tulix.tv/traceafrica/traceafrica.stream/playlist.m3u8 
+#EXTINF:0, TRAVEL CHANNEL
+http://astvstream1.tulix.tv/travelchannel/travelchannel.stream/playlist.m3u8 
+#EXTINF:0, TRAVEL CHANNEL
+http://astvstream1.tulix.tv/travelchannel/travelchannel.stream/playlist.m3u8 
+#EXTINF:0, TREK TV
+http://astvstream1.tulix.tv/trektv/trektv/playlist.m3u8 
+#EXTINF:0, TV AFRICA
+http://astvstream3.tulix.tv/africatv/africatv/playlist.m3u8 
+#EXTINF:0, TV5 MONDE AFRIQUE
+http://astvstream3.tulix.tv/tv5monde/tv5monde.stream/playlist.m3u8 
+#EXTINF:0, TV5 MONDE EUROPE
+http://myafricanmega3.tulix.tv:1935/map-tv5afrique/map-tv5afrique.stream/playlist.m3u8 
+#EXTINF:0, TVGE
+http://astvstream1.tulix.tv/tvgeint/mp4:tvgeint.stream/playlist.m3u8 
+#EXTINF:0, TVM2 PLUS MAURITANIA
+http://astvstream1.tulix.tv/tvm2plus/mp4:tvm2plus/playlist.m3u8 
+#EXTINF:0, TVS1
+http://myafricanmega3.tulix.tv:1935/map-tvs1tv/tvs1tv.stream/playlist.m3u8 
+#EXTINF:0, TVT
+http://myafricanmega.tulix.tv:1935/map-tvtint/map-tvt.stream/playlist.m3u8 
+#EXTINF:0, TVT TOGO
+http://astvstream3.tulix.tv/tvttogo/tvttogo/playlist.m3u8 
+#EXTINF:0, VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8 
+#EXTINF:0, VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8 
+#EXTINF:0, VEVO1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8 
+#EXTINF:0, W9
+http://astvstream1.tulix.tv/ext-w9/ext-w9/playlist.m3u8 
+#EXTINF:0, WALF TV
+http://myafricanmega4.tulix.tv:1935/map-walfroku/mp4:map-walfroku.stream/playlist.m3u8 
+#EXTINF:0, WBSTV
+http://astvstream1.tulix.tv/wbstv/mp4:sat-wbstv/playlist.m3u8 
+#EXTINF:0, ZEE TV MOVIES
+http://astvstream1.tulix.tv/ext-zeetv/ext-zeetv.stream/playlist.m3u8 
+#EXTINF:0, ZNBC1
+http://astvstream1.tulix.tv/znbc1/znbctv1.stream/playlist.m3u8 
+#EXTINF:0, i24 NEWS FRENCH
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/650.m3u8 
+
+#EXTINF:0, Animaux HD 1080P
+http://87.248.160.8/edge/smil:animaux/playlist.m3u8 
+#EXTINF:0, Arte
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8 
+#EXTINF:0, Cine Fil
+http://teleclub.fr/cinefil.mp4 
+#EXTINF:0, CineFil 2
+http://tv.ut.cx/cinefil.mp4 
+#EXTINF:0, Cinetoile
+http://teleclub.fr/cinetoile.mp4 
+#EXTINF:0, Cinetoile 2 
+http://tv.ut.cx/cinetoile.mp4 
+#EXTINF:0, Cinq+
+http://tv.ut.cx/cinqplus.mp4 
+#EXTINF:0, Cinq+2
+http://teleclub.fr/cinqplus.mp4 
+#EXTINF:0, Club.
+http://teleclub.fr/club1.mp4 
+#EXTINF:0, Club1
+http://tv.ut.cx/club1.mp4 
+#EXTINF:0, EUROSPORT 1 FR
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8 
+#EXTINF:0, Enorme TV
+http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8 
+#EXTINF:0, GONG
+http://ec.playmedia.fr:1935/gong-base/live/playlist.m3u8 
+#EXTINF:0, Gloubi
+http://teleclub.fr/gloubi.mp4 
+#EXTINF:0, LA CHAINE NORMANDIE
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8 
+#EXTINF:0, Minimax
+http://tv.ut.cx/minimax.mp4 
+#EXTINF:0, Mirabelle TV
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8 
+#EXTINF:0, NOW Music.
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8 
+#EXTINF:0, Science & Vie TV
+rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p 
+#EXTINF:0, Weo HD
+rtmp://str81.creacast.com:80/weo/high 
+#EXTINF:0, Weo SD
+rtmp://str82.creacast.com:80/weo/low 
+#EXTINF:0, Yvelines Premiere
+http://rtmp.infomaniak.ch/livecast/yveline1/index.m3u8 
+#EXTINF:0, Africa 24
+http://afr24-p.cdn.hexaglobe.net/streaming/africa24_af24/playlist4.m3u8 
+#EXTINF:0, Afrique Media Tv
+http://afm.streamakaci.com/afm/afm.stream/playlist.m3u8 
+#EXTINF:0, Antenne Centre TV
+http://vm109.imust.org:1935/live/livestream/playlist.m3u8 
+#EXTINF:0, Assemblée Nationale
+http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8 
+#EXTINF:0, BFM Business
+http://bfmlive-i.akamaihd.net/hls/live/214272/bfmbusiness/04.m3u8 
+#EXTINF:0, BFM TV
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8 
+#EXTINF:0, Best Music HD
+http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8 
+#EXTINF:0, CNA
+http://str81.creacast.com:80/cna/live.sdp/playlist.m3u8 
+#EXTINF:0, Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8 
+#EXTINF:0, Clubbing TV
+http://204.107.26.252:1935/live/691.high.stream/playlist.m3u8 
+#EXTINF:0, Digital Congo
+http://myafricanmega.tulix.tv:1935/map-dcongo/map-dcongotv.stream/playlist.m3u8 
+#EXTINF:0, Equinoxe Television
+http://myafricanmega3.tulix.tv:1935/map-equinoxe/map-equinoxe/playlist.m3u8 
+#EXTINF:0, Equinoxe Television (CMR)
+rtmp://myafricanmega3.tulix.tv:1935/map-equinoxe/map-equinoxe 
+#EXTINF:0, Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8 
+#EXTINF:0, France 24
+http://myafricanmega4.tulix.tv:1935/map-france24/map-france24roku.stream/playlist.m3u8 
+#EXTINF:0, Gabon TV
+http://myafricanmega.tulix.tv:1935/map-gabon/map-gabontv.stream/playlist.m3u8 
+#EXTINF:0, Grand Lille TV
+http://str81.creacast.com/grandlilletv/high/playlist.m3u8 
+#EXTINF:0, I24 News
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/650.m3u8 
+#EXTINF:0, IL TV
+http://str81.creacast.com:80/iltv/high/playlist.m3u8 
+#EXTINF:0, KTO
+http://mobile.ktotv.com/live/KTO_Layer1.m3u8 
+#EXTINF:0, La Tele
+http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8 
+#EXTINF:0, M6 MUSIC
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8 
+#EXTINF:0, MFM TV
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8 
+#EXTINF:0, Music Box 80
+http://tv.ut.cx/musicbox80.mp4/playlist.m3u8 
+#EXTINF:0, NRJ TV
+http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8 
+#EXTINF:0, Nollywood FR
+http://myafricanmega.tulix.tv:1935/map-nollywood/map-nollywood/playlist.m3u8 
+#EXTINF:0, Nollywood FR
+rtmp://myafricanmega.tulix.tv:1935/map-nollywood/map-nollywood 
+#EXTINF:0, Notele
+http://streaming06.axeweb.be:1935/live/direct.stream/playlist.m3u8 
+#EXTINF:0, OUI TV
+http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8 
+#EXTINF:0, Ortm
+http://xmaliactux.api.channel.livestream.com/3.0/playlist.m3u8 
+#EXTINF:0, PTC
+http://media.rtc.be/vod/mp4:166597.mp4/playlist.m3u8 
+#EXTINF:0, RADIO 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8 
+#EXTINF:0, RADIO MONTE CARLO TV
+http://fms.105.net:1935/live/rmc1/playlist.m3u8 
+#EXTINF:0, RADIO VIRGIN TV
+http://fms.105.net:1935/live/virgin1/playlist.m3u8 
+#EXTINF:0, ROUGE TV CH
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8 
+#EXTINF:0, RTC
+http://media.webtvlive.eu/rtc/_definst_/mp4:live_720p.stream/playlist.m3u8 
+#EXTINF:0, Rouge TV
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8 
+#EXTINF:0, TÈlÈ MB
+http://vm109.imust.org:1935/live/telemb-live/playlist.m3u8 
+#EXTINF:0, Vevo Hip Hop TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8 
+#EXTINF:0, Vevo Music TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8 
+#EXTINF:0, Vevo ROCK TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8 
+#EXTINF:0, Vox Africa
+rtmp://208.75.224.165:1935/map-voxafrica/myStream.sdp

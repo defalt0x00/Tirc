@@ -1,0 +1,3340 @@
+
+Iptv Links ~ Enlaces iptv
+6.4.15
+
+IPTV Links - M3U8 - M3U
+
+
+
+
+6.4.2015
+
+
+# EXTM3U
+#EXTINF: 0, UTV
+http://peerstv.ufanet.ru/tv/1021/index.m3u8
+#EXTINF: 0, UTV Sterlitamak
+http://peerstv.ufanet.ru/tv/1020/index.m3u8
+#EXTINF: 0, UTV Salavat - Ishimbai
+http://peerstv.ufanet.ru/tv/1019/index.m3u8
+#EXTINF: 0, UTV Neftekamsk
+http://peerstv.ufanet.ru/tv/1018/index.m3u8
+#EXTINF: 0, UTV October
+http://peerstv.ufanet.ru/tv/1017/index.m3u8
+#EXTINF: 0, UTV Orenburg - Orsk
+http://peerstv.ufanet.ru/tv/1016/index.m3u8
+#EXTINF: 0, UTV Kazan
+http://peerstv.ufanet.ru/tv/1015/index.m3u8
+#EXTINF: 0, Channel
+http://peerstv.ufanet.ru/tv/1001/index.m3u8
+#EXTINF: 0, Russia 1
+http://peerstv.ufanet.ru/tv/1002/index.m3u8
+#EXTINF: 0, Russia 2
+http://peerstv.ufanet.ru/tv/1003/index.m3u8
+#EXTINF: 0, NTV
+http://peerstv.ufanet.ru/tv/1215/index.m3u8
+#EXTINF: 0, Petersburg Channel 5
+http://peerstv.ufanet.ru/tv/1005/index.m3u8
+#EXTINF: 0, Russia 24
+http://peerstv.ufanet.ru/tv/1006/index.m3u8
+#EXTINF: 0, Russia To
+http://peerstv.ufanet.ru/tv/1007/index.m3u8
+#EXTINF: 0, TVC
+http://peerstv.ufanet.ru/tv/1009/index.m3u8
+#EXTINF: 0, OTR
+http://peerstv.ufanet.ru/tv/1010/index.m3u8
+#EXTINF: 0 Pepper
+http://peerstv.ufanet.ru/tv/1227/index.m3u8
+#EXTINF: 0, STS
+http://peerstv.ufanet.ru/tv/1026/index.m3u8
+#EXTINF: 0, TNT
+http://peerstv.ufanet.ru/tv/1011/index.m3u8
+#EXTINF: 0, Ren-TV
+http://peerstv.ufanet.ru/tv/1030/index.m3u8
+#EXTINF: 0 Home
+http://peerstv.ufanet.ru/tv/1092/index.m3u8
+#EXTINF: 0, TV3
+http://peerstv.ufanet.ru/tv/1231/index.m3u8
+#EXTINF: 0 Star
+http://peerstv.ufanet.ru/tv/1208/index.m3u8
+#EXTINF: 0 World
+http://peerstv.ufanet.ru/tv/1343/index.m3u8
+#EXTINF: 0, BLS
+http://peerstv.ufanet.ru/tv/1014/index.m3u8
+#EXTINF: 0, Wildlife
+http://peerstv.ufanet.ru/tv/1093/index.m3u8
+#EXTINF: 0, Travel + Adventure
+http://peerstv.ufanet.ru/tv/1262/index.m3u8
+#EXTINF: 0, MTV
+http://peerstv.ufanet.ru/tv/1284/index.m3u8
+#EXTINF: 0, Auto 24
+http://peerstv.ufanet.ru/tv/1285/index.m3u8
+#EXTINF: 0 Russian Illusion
+http://peerstv.ufanet.ru/tv/1104/index.m3u8
+#EXTINF: 0 Illusion +
+http://peerstv.ufanet.ru/tv/1105/index.m3u8
+#EXTINF: 0 Evrokino
+http://peerstv.ufanet.ru/tv/1106/index.m3u8
+#EXTINF: 0, Amedia 1
+http://peerstv.ufanet.ru/tv/1286/index.m3u8
+#EXTINF: 0 Cartoon
+http://peerstv.ufanet.ru/tv/1323/index.m3u8
+#EXTINF: 0 Children
+http://peerstv.ufanet.ru/tv/1108/index.m3u8
+#EXTINF: 0, Nickelodeon
+http://peerstv.ufanet.ru/tv/1109/index.m3u8
+#EXTINF: 0, Nick Jr.
+http://peerstv.ufanet.ru/tv/1110/index.m3u8
+#EXTINF: 0, Jim Jam
+http://peerstv.ufanet.ru/tv/1274/index.m3u8
+#EXTINF: 0, Teen TV
+http://peerstv.ufanet.ru/tv/1111/index.m3u8
+#EXTINF: 0, Disney
+http://peerstv.ufanet.ru/tv/1022/index.m3u8
+#EXTINF: 0, TiJi
+http://peerstv.ufanet.ru/tv/1112/index.m3u8
+#EXTINF: 0, Gulli
+http://peerstv.ufanet.ru/tv/1113/index.m3u8
+#EXTINF: 0, Sports
+http://peerstv.ufanet.ru/tv/1114/index.m3u8
+#EXTINF: 0, Sport 1
+http://peerstv.ufanet.ru/tv/1115/index.m3u8
+#EXTINF: 0, CHL
+http://peerstv.ufanet.ru/tv/1213/index.m3u8
+#EXTINF: 0, Fighter TV
+http://peerstv.ufanet.ru/tv/1206/index.m3u8
+#EXTINF: 0 Russian extreme
+http://peerstv.ufanet.ru/tv/1116/index.m3u8
+#EXTINF: 0 Drive
+http://peerstv.ufanet.ru/tv/1117/index.m3u8
+#EXTINF: 0, Auto Plus
+http://peerstv.ufanet.ru/tv/1205/index.m3u8
+#EXTINF: 0, Fight Club
+http://peerstv.ufanet.ru/tv/1118/index.m3u8
+#EXTINF: 0 TV Movies
+http://peerstv.ufanet.ru/tv/1119/index.m3u8
+#EXTINF: 0, Zee TV
+http://peerstv.ufanet.ru/tv/1204/index.m3u8
+#EXTINF: 0, TV XXI
+http://peerstv.ufanet.ru/tv/1120/index.m3u8
+#EXTINF: 0, Home Cinema
+http://peerstv.ufanet.ru/tv/1121/index.m3u8
+#EXTINF: 0, Film Screening
+http://peerstv.ufanet.ru/tv/1122/index.m3u8
+#EXTINF: 0, Comedy TV
+http://peerstv.ufanet.ru/tv/1210/index.m3u8
+#EXTINF: 0, Mix TV
+http://peerstv.ufanet.ru/tv/1123/index.m3u8
+#EXTINF: 0, Amedia 2
+http://peerstv.ufanet.ru/tv/1275/index.m3u8
+#EXTINF: 0 Russian novel
+http://peerstv.ufanet.ru/tv/1124/index.m3u8
+#EXTINF: 0, plus the Phoenix Movie
+http://peerstv.ufanet.ru/tv/1125/index.m3u8
+#EXTINF: 0, India TV
+http://peerstv.ufanet.ru/tv/1209/index.m3u8
+#EXTINF: 0, NST
+http://peerstv.ufanet.ru/tv/1126/index.m3u8
+#EXTINF: 0, World Fashion
+http://peerstv.ufanet.ru/tv/1127/index.m3u8
+#EXTINF: 0, STV
+http://peerstv.ufanet.ru/tv/1201/index.m3u8
+#EXTINF: 0 Mother and Child
+http://peerstv.ufanet.ru/tv/1128/index.m3u8
+#EXTINF: 0 Telecafe
+http://peerstv.ufanet.ru/tv/1129/index.m3u8
+#EXTINF: 0 Kitchen TV
+http://peerstv.ufanet.ru/tv/1211/index.m3u8
+#EXTINF: 0, Tonus TV
+http://peerstv.ufanet.ru/tv/1130/index.m3u8
+#EXTINF: 0, Healthy TV
+http://peerstv.ufanet.ru/tv/1131/index.m3u8
+#EXTINF: 0, Homestead TV
+http://peerstv.ufanet.ru/tv/1132/index.m3u8
+#EXTINF: 0 Country
+http://peerstv.ufanet.ru/tv/1133/index.m3u8
+#EXTINF: 0, Hunting and Fishing
+http://peerstv.ufanet.ru/tv/1134/index.m3u8
+#EXTINF: 0 Weapons
+http://peerstv.ufanet.ru/tv/1135/index.m3u8
+#EXTINF: 0, Theatre TV
+http://peerstv.ufanet.ru/tv/1276/index.m3u8
+#EXTINF: 0 Live!
+http://peerstv.ufanet.ru/tv/1137/index.m3u8
+#EXTINF: 0 Retro TV
+http://peerstv.ufanet.ru/tv/1138/index.m3u8
+#EXTINF: 0, 2x2
+http://peerstv.ufanet.ru/tv/1028/index.m3u8
+#EXTINF: 0, Friday
+http://peerstv.ufanet.ru/tv/1069/index.m3u8
+#EXTINF: 0, STS Love
+http://peerstv.ufanet.ru/tv/1287/index.m3u8
+#EXTINF: 0, S
+http://peerstv.ufanet.ru/tv/1073/index.m3u8
+#EXTINF: 0, Humor Box
+http://peerstv.ufanet.ru/tv/1139/index.m3u8
+#EXTINF: 0, Nautical Channel
+http://peerstv.ufanet.ru/tv/1277/index.m3u8
+#EXTINF: 0, 24 Techno
+http://peerstv.ufanet.ru/tv/1084/index.m3u8
+#EXTINF: 0 Science 2.0
+http://peerstv.ufanet.ru/tv/1140/index.m3u8
+#EXTINF: 0 My Planet
+http://peerstv.ufanet.ru/tv/1141/index.m3u8
+#EXTINF: 0, zoo
+http://peerstv.ufanet.ru/tv/1142/index.m3u8
+#EXTINF: 0 ZooTV
+http://peerstv.ufanet.ru/tv/1143/index.m3u8
+#EXTINF: 0, 365 days per
+http://peerstv.ufanet.ru/tv/1144/index.m3u8
+#EXTINF: 0, History
+http://peerstv.ufanet.ru/tv/1145/index.m3u8
+#EXTINF: 0 time
+http://peerstv.ufanet.ru/tv/1146/index.m3u8
+#EXTINF: 0, Psychology 21
+http://peerstv.ufanet.ru/tv/1147/index.m3u8
+#EXTINF: 0 Success
+http://peerstv.ufanet.ru/tv/1148/index.m3u8
+#EXTINF: 0 Pets
+http://peerstv.ufanet.ru/tv/1149/index.m3u8
+#EXTINF: 0, Who is Who
+http://peerstv.ufanet.ru/tv/1150/index.m3u8
+#EXTINF: 0, A-One Hip-Hop
+http://peerstv.ufanet.ru/tv/1159/index.m3u8
+#EXTINF: 0, Bridge TV
+http://peerstv.ufanet.ru/tv/1160/index.m3u8
+#EXTINF: 0, DW
+http://peerstv.ufanet.ru/tv/1167/index.m3u8
+#EXTINF: 0, English Club TV
+http://peerstv.ufanet.ru/tv/1151/index.m3u8
+#EXTINF: 0, Europa Plus TV
+http://peerstv.ufanet.ru/tv/1186/index.m3u8
+#EXTINF: 0, MCM Top
+http://peerstv.ufanet.ru/tv/1161/index.m3u8
+#EXTINF: 0, Mezzo
+http://peerstv.ufanet.ru/tv/1163/index.m3u8
+#EXTINF: 0, Music Box RU
+http://peerstv.ufanet.ru/tv/1155/index.m3u8
+#EXTINF: 0, Music Box TV
+http://peerstv.ufanet.ru/tv/1162/index.m3u8
+#EXTINF: 0, Rusong TV
+http://peerstv.ufanet.ru/tv/1153/index.m3u8
+#EXTINF: 0 in A minor
+http://peerstv.ufanet.ru/tv/1157/index.m3u8
+#EXTINF: 0 First Music
+http://peerstv.ufanet.ru/tv/1154/index.m3u8
+#EXTINF: 0, SRW Union
+http://peerstv.ufanet.ru/tv/1166/index.m3u8
+#EXTINF: 0, Chanson TV
+http://peerstv.ufanet.ru/tv/1156/index.m3u8
+#EXTINF: 0, RU.TV
+http://peerstv.ufanet.ru/tv/1068/index.m3u8
+#EXTINF: 0 MUZ
+http://peerstv.ufanet.ru/tv/1152/index.m3u8
+#EXTINF: 0 World 24
+http://peerstv.ufanet.ru/tv/1165/index.m3u8
+#EXTINF: 0, MTV Hits
+http://peerstv.ufanet.ru/tv/1278/index.m3u8
+#EXTINF: 0, MTV Rocks
+http://peerstv.ufanet.ru/tv/1279/index.m3u8
+#EXTINF: 0, MTV Dance
+http://peerstv.ufanet.ru/tv/1280/index.m3u8
+#EXTINF: 0, VH 1 European
+http://peerstv.ufanet.ru/tv/1281/index.m3u8
+#EXTINF: 0, VH 1 Classic
+http://peerstv.ufanet.ru/tv/1282/index.m3u8
+#EXTINF: 0, Lifenews
+http://peerstv.ufanet.ru/tv/1083/index.m3u8
+#EXTINF: 0, Russia Today
+http://peerstv.ufanet.ru/tv/1318/index.m3u8
+#EXTINF: 0, Euronews
+http://peerstv.ufanet.ru/tv/1185/index.m3u8
+#EXTINF: 0, M Television
+http://peerstv.ufanet.ru/tv/1171/index.m3u8
+#EXTINF: 0, Shopping Live
+http://peerstv.ufanet.ru/tv/1179/index.m3u8
+#EXTINF: 0 All Ufa
+http://peerstv.ufanet.ru/tv/1170/index.m3u8
+#EXTINF: 0 Home Store
+http://peerstv.ufanet.ru/tv/1180/index.m3u8
+#EXTINF: 0, Kurai
+http://peerstv.ufanet.ru/tv/1174/index.m3u8
+#EXTINF: 0, Union
+http://peerstv.ufanet.ru/tv/1177/index.m3u8
+#EXTINF: 0, Spas
+http://peerstv.ufanet.ru/tv/1178/index.m3u8
+#EXTINF: 0 PTS Bashkortostan
+http://peerstv.ufanet.ru/tv/1172/index.m3u8
+#EXTINF: 0 Tamyr
+http://peerstv.ufanet.ru/tv/1173/index.m3u8
+#EXTINF: 0 THB
+http://peerstv.ufanet.ru/tv/1176/index.m3u8
+#EXTINF: 0, TTC
+http://peerstv.ufanet.ru/tv/1181/index.m3u8
+#EXTINF: 0, Tugan Tel
+http://peerstv.ufanet.ru/tv/1175/index.m3u8
+#EXTINF: 0, TMTV
+http://peerstv.ufanet.ru/tv/1096/index.m3u8
+#EXTINF: 0 Square
+http://peerstv.ufanet.ru/tv/1095/index.m3u8
+4.4.2015
+
+CTC
+http://87.248.160.8/edge/smil:sts/playlist.m3u8
+Fight
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+STV
+http://87.248.160.8/edge/smil:set/playlist.m3u8
+Alt tv
+http://87.248.160.8/edge/smil:alttv/playlist.m3u8
+Accent
+http://87.248.160.8/edge/smil:accent/playlist.m3u8
+Sor tv
+http://87.248.160.8/edge/smil:sortv/playlist.m3u8
+Ren tv
+http://87.248.160.8/edge/smil:rentv/playlist.m3u8
+Noroc tv
+http://87.248.160.8/edge/smil:noroc/playlist.m3u8
+Busuioc tv
+http://87.248.160.8/edge/smil:busuioc/playlist.m3u8
+Gold tv
+http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
+2Plus tv
+http://87.248.160.8/edge/smil:2plus/playlist.m3u8
+Canal3
+http://87.248.160.8/edge/smil:canal3/playlist.m3u8
+Publika TV
+http://87.248.160.8/edge/smil:publica/playlist.m3u8
+PRO TV
+http://87.248.160.8/edge/smil:protv/playlist.m3u8
+TVR Moldova
+http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+Pro tv
+http://87.248.160.8/edge/smil:protv/playlist.m3u8
+2 Plus
+http://87.248.160.8/edge/smil:2plus/playlist.m3u8
+TNT Bravo
+http://87.248.160.8/edge/smil:tnt/playlist.m3u8
+CTC MEGA
+http://87.248.160.8/edge/smil:sts/playlist.m3u8
+RTR Moldova
+http://87.248.160.8/edge/smil:rtrp/playlist.m3u8
+Canal 3
+http://87.248.160.8/edge/smil:canal3/playlist.m3u8
+Ren Moldova
+http://87.248.160.8/edge/smil:rentv/playlist.m3u8
+N4
+http://87.248.160.8/edge/smil:n4/playlist.m3u8
+Animaux
+http://87.248.160.8/edge/smil:animaux/playlist.m3u8
+Encyclo
+http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
+Chassepeche
+http://87.248.160.8/edge/smil:chassepeche/playlist.m3u8
+Jurnal TV HD
+http://87.248.160.8/edge/smil:jurnaltv/playlist.m3u8
+MBC HD
+http://87.248.160.8/edge/smil:mbc/playlist.m3u8
+Moldova 1
+http://87.248.160.8/edge/smil:m1/playlist.m3u8
+Moldova Sport HD
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+Prime
+http://87.248.160.8/edge/smil:prime/playlist.m3u8
+PRO TV Chisinau
+http://87.248.160.8/edge/smil:protv/playlist.m3u8
+Publika TV
+http://87.248.160.8/edge/smil:publica/playlist.m3u8
+Realitatea TV
+http://87.248.160.8/edge/smil:realitate/playlist.m3u8
+TVC 21
+http://87.248.160.8/edge/smil:tvc21/playlist.m3u8
+TVR
+http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+Pro tv
+http://87.248.160.8/edge/smil:protv/playlist.m3u8
+M1
+http://87.248.160.8/edge/smil:m1/playlist.m3u8
+Tvr
+http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+Bravo
+http://87.248.160.8/edge/smil:tnt/playlist.m3u8
+Rtr
+http://87.248.160.8/edge/smil:rtrp/playlist.m3u8
+N4
+http://87.248.160.8/edge/smil:n4/playlist.m3u8
+Tvc21
+http://87.248.160.8/edge/smil:tvc21/playlist.m3u8
+1.4.2015
+
+CBS reality
+
+http://93.184.221.133/00573D/713/713-0.m3u8
+
+CBS drama
+
+http://93.184.221.133/00573D/712/712-0.m3u8
+
+CBS Action
+
+http://93.184.221.133/00573D/711/711-0.m3u8
+
+
+#EXTM3U 
+#EXTINF:0,BBC Sport 
+http://93.184.221.133/00573D/1104/1104-0.m3u8 
+#EXTINF:0,Viasat Sport 
+http://93.184.221.133/00573D/1341/1341-0.m3u8 
+#EXTINF:0,3Sport 1 
+http://93.184.221.133/00573D/236/236-0.m3u8 
+#EXTINF:0,3Sport 
+http://93.184.221.133/00573D/837/837-0.m3u8 
+#EXTINF:0,British Eurosport 
+http://93.184.221.133/00573D/1210/1210-0.m3u8 
+#EXTINF:0,British Eurosport 2 
+http://93.184.221.133/00573D/1211/1211-0.m3u8 
+#EXTINF:0,Sky Sports News 
+http://93.184.221.133/00573D/183/183-0.m3u8 
+#EXTINF:0,Viasat Golf (1) 
+http://93.184.221.133/00573D/204/204-0.m3u8 
+#EXTINF:0,Viasat Golf (2) 
+http://93.184.221.133/00573D/911/911-0.m3u8 
+#EXTINF:0,Fox 11 USA 
+http://93.184.221.133/00573D/1093/1093-0.m3u8 
+#EXTINF:0,ABC7 USA 
+http://93.184.221.133/00573D/1086/1086-0.m3u8 
+#EXTINF:0,CNBC USA 
+http://93.184.221.133/00573D/1085/1085-0.m3u8 
+#EXTINF:0,CBS 2 USA 
+http://93.184.221.133/00573D/1084/1084-0.m3u8 
+#EXTINF:0,BOXNATION 
+http://93.184.221.133/00573D/1222/1222-0.m3u8 
+#EXTINF:0,EURONEWS 
+http://93.184.221.133/00573D/346/346-0.m3u8 
+#EXTINF:0,DRAMA CHANNEL 
+http://93.184.221.133/00573D/1348/1348-0.m3u8 
+#EXTINF:0,DISCOVERY EUROPE 
+http://93.184.221.133/00573D/1347/1347-0.m3u8 
+#EXTINF:0,DISCOVERY HISTORY 
+http://93.184.221.133/00573D/1348/1348-0.m3u8 
+#EXTINF:0,DAVE 
+http://93.184.221.133/00573D/290/290-0.m3u8 
+#EXTINF:0,SKY INFO 
+http://93.184.221.133/00573D/1451/1451-0.m3u8 
+#EXTINF:0,RTE 1 
+http://93.184.221.133/00573D/345/345-0.m3u8 
+#EXTINF:0,C-MORE 
+http://93.184.221.133/00573D/1460/1460-0.m3u8 
+#EXTINF:0,NAT GEO 
+http://93.184.221.133/00573D/338/338-0.m3u8 
+#EXTINF:0,MTV MUSIC TELEVISION 
+http://93.184.221.133/00573D/1345/1345-0.m3u8 
+#EXTINF:0,MOVIES 4 
+http://93.184.221.133/00573D/311/311-0.m3u8 
+#EXTINF:0,CHANNEL 6 
+http://93.184.221.133/00573D/231/231-0.m3u8 
+#EXTINF:0,CHANNEL 4 
+http://93.184.221.133/00573D/292/292-0.m3u8 
+#EXTINF:0,CBS REALITY 
+http://93.184.221.133/00573D/713/713-0.m3u8 
+#EXTINF:0,CBS DRAMA 
+http://93.184.221.133/00573D/712/712-0.m3u8 
+#EXTINF:0,CBS ACTION 
+http://93.184.221.133/00573D/711/711-0.m3u8 
+#EXTINF:0,PLUS 3 
+http://93.184.221.133/00573D/232/232-0.m3u8 
+#EXTINF:0,TG 4 
+http://93.184.221.133/00573D/348/348-0.m3u8
+19.3.2015
+
+#EXTINF:0,HRT 1
+http://83.139.104.99/Content/HLS/Live/Channel(HTV1)/Stream(03)/index.m3u8
+
+#EXTINF:0,HRT 2
+http://83.139.104.99/Content/HLS/Live/Channel(HTV2)/Stream(03)/index.m3u8
+
+#EXTINF:0,HRT 3
+http://83.139.104.99/Content/HLS/Live/Channel(HTV3)/Stream(03)/index.m3u8
+
+#EXTINF:0,HRT 4
+http://83.139.104.99/Content/HLS/Live/Channel(HTV4)/Stream(03)/index.m3u8
+
+#EXTINF:-1,KLASIK TV
+http://83.139.104.99/Content/HLS/Live/Channel(klasik_tv)/Stream(03)/index.m3u8
+
+#EXTINF:0,RTL KOCKICA
+http://83.139.104.99/Content/HLS/Live/Channel(rtl_kockica)/Stream(03)/index.m3u8
+
+#EXTINF:0,RTL 2
+http://83.139.104.99/Content/HLS/Live/Channel(rtl_2)/Stream(03)/index.m3u8
+
+#EXTINF:0,RTL PLUS
+http://83.139.104.99/Content/HLS/Live/Channel(rtlplus)/Stream(03)/index.m3u8
+
+#EXTINF:-1,VOX
+http://83.139.104.99/Content/HLS/Live/Channel(vox_tv)/Stream(03)/index.m3u8
+
+#EXTINF:0,CINESTAR PREMIERE 2
+http://83.139.104.99/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8
+
+#EXTINF:0,CINESTAR PREMIERE 1
+http://83.139.104.99/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8
+
+#EXTINF:-1,CINESTAR ACTION
+http://83.139.104.99/Content/HLS/Live/Channel(CINESTAR_ACTION_AND_THRILLER)/Stream(03)/index.m3u8
+
+#EXTINF:0,CINESTAR TV
+http://83.139.104.99/Content/HLS/Live/Channel(cinestar_tv)/Stream(03)/index.m3u8
+
+#EXTINF:-1,SPORTSKA TV
+http://83.139.104.99/Content/HLS/Live/Channel(sportska_tv)/Stream(03)/index.m3u8
+
+#EXTINF:-1,EXTREME SPORTS
+http://83.139.104.99/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8
+
+#EXTINF:-1,FIGHT CHANNEL
+http://83.139.104.99/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
+
+#EXTINF:-1,Discovery
+http://83.139.104.99/Content/HLS/Live/Channel(discovery_channel)/Stream(03)/index.m3u8
+
+#EXTINF:0,VIASAT EXPLORER
+http://83.139.104.99/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8
+
+#EXTINF:0,Viasat History
+http://83.139.104.99/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8
+
+#EXTINF:0,TRAVEL CHANNEL
+http://83.139.104.99/Content/HLS/Live/Channel(travel_channel)/Stream(03)/index.m3u8
+
+#EXTINF:-1,CMC
+http://83.139.104.99/Content/HLS/Live/Channel(cmc)/Stream(03)/index.m3u8
+
+#EXTINF:-1,MTV
+http://83.139.104.99/Content/HLS/Live/Channel(mtv)/Stream(03)/index.m3u8
+
+#EXTINF:-1,24 SATA
+http://83.139.104.99/Content/HLS/Live/Channel(24_sata)/Stream(03)/index.m3u8
+
+#EXTINF:-1,MREZA ZG
+http://83.139.104.99/Content/HLS/Live/Channel(mrezaZG)/Stream(03)/index.m3u8
+
+#EXTINF:-1,MREZA ST
+http://83.139.104.99/Content/HLS/Live/Channel(mrezaST)/Stream(03)/index.m3u8
+
+#EXTINF:0,TLC
+http://83.139.104.99/Content/HLS/Live/Channel(TLC)/Stream(03)/index.m3u8
+
+#EXTINF:0,ANIMAL PLANET
+http://83.139.104.99/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8
+
+#EXTINF:0,CBS REALITY
+http://83.139.104.99/Content/HLS/Live/Channel(cbs_reality)/Stream(03)/index.m3u8
+
+#EXTINF:-1,Eurosport
+http://83.139.104.99/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+
+#EXTINF:-1,Eurosport 2
+http://83.139.104.99/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+
+JUGOTON
+http://83.139.104.99/Content/HLS/Live/Channel(jugoton)/Stream(03)/index.m3u8
+
+#EXTINF:-1,KINO TV
+http://83.139.104.99/Content/HLS/Live/Channel(kino_tv)/Stream(03)/index.m3u8
+
+#EXTINF:-1,NARODNA TV
+http://83.139.104.99/Content/HLS/Live/Channel(narodna_tv)/Stream(03)/index.m3u8
+
+#EXTINF:-1,FASHION
+http://83.139.104.99/Content/HLS/Live/Channel(fashion_tv)/Stream(03)/index.m3u8
+
+#EXTINF:-1,OSJECKA
+http://83.139.104.99/Content/HLS/Live/Channel(osjecka_tv)/Stream(03)/index.m3u8
+
+#EXTINF:-1,SBTV
+http://83.139.104.99/Content/HLS/Live/Channel(sbtv)/Stream(03)/index.m3u8
+
+#EXTINF:-1,MEDIASET IT
+http://83.139.104.99/Content/HLS/Live/Channel(mediaset_italia)/Stream(03)/index.m3u8
+
+#EXTINF:-1,RTB TV
+http://83.139.104.99/Content/HLS/Live/Channel(rtb_tv)/Stream(03)/index.m3u8
+
+#EXTINF:-1,AL JAZEERA
+http://83.139.104.99/Content/HLS/Live/Channel(al_jazeera_balkans)/Stream(03)/index.m3u8
+
+#EXTINF:-1,DMC
+http://83.139.104.99/Content/HLS/Live/Channel(DMC)/Stream(03)/index.m3u8
+
+#EXTINF:-1,SRCE TV
+http://83.139.104.99/Content/HLS/Live/Channel(srce_tv)/Stream(03)/index.m3u8
+
+#EXTINF:-1,KANAL 5
+http://83.139.104.99/Content/HLS/Live/Channel(kanal_5)/Stream(03)/index.m3u8
+
+#EXTINF:-1,KANAL RI
+http://83.139.104.99/Content/HLS/Live/Channel(KanalRI)/Stream(03)/index.m3u8
+
+#EXTINF:-1,VARAZDISKA TV
+http://83.139.104.99/Content/HLS/Live/Channel(VTV_varazdin)/Stream(03)/index.m3u8
+
+#EXTINF:-1,FULL TV
+http://83.139.104.99/Content/HLS/Live/Channel(fullTV)/Stream(03)/index.m3u8
+
+#EXTINF:-1,MEDIATRAVEL
+http://83.139.104.99/Content/HLS/Live/Channel(mediatravel)/Stream(03)/index.m3u8
+
+#EXTINF:-1,ORLANDO KIDS
+http://83.139.104.99/Content/HLS/Live/Channel(orlando_kids)/Stream(03)/index.m3u8
+
+#EXTINF:-1,OK BAMBINO
+http://83.139.104.99/Content/HLS/Live/Channel(ok_bambino)/Stream(03)/index.m3u8
+
+#EXTINF:-1,MTV MUSIC
+http://83.139.104.99/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TV ISTRA
+http://83.139.104.99/Content/HLS/Live/Channel(tv_istra)/Stream(03)/index.m3u8
+
+#EXTINF:-1,ZDRAVA TV
+http://83.139.104.99/Content/HLS/Live/Channel(ZDRAVA_TV-7)/Stream(03)/index.m3u8
+
+#EXTINF:-1,FOOD NETWORK
+http://83.139.104.99/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+
+#EXTINF:-1,GINX
+http://83.139.104.99/Content/HLS/Live/Channel(ginx)/Stream(03)/index.m3u8
+
+#EXTINF:-1,JADRAN TV
+http://83.139.104.99/Content/HLS/Live/Channel(tv_jadran)/Stream(03)/index.m3u8
+
+#EXTINF:-1,NOVA TV PULA
+http://83.139.104.99/Content/HLS/Live/Channel(tv_nova)/Stream(03)/index.m3u8
+
+#EXTINF:O,FINE LIVING
+http://83.139.104.99/Content/HLS/Live/Channel(fine_living)/Stream(03)/index.m3u8
+15.3.2015
+
+EXTINF:-1,CINESTAR
+http://83.139.104.101/Content/HLS/Live/Channel(cinestar_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR AT
+http://83.139.104.101/Content/HLS/Live/Channel(CINESTAR_ACTION_AND_THRILLER)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://83.139.104.101/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR PREMHERE 2
+http://83.139.104.101/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8
+#EXTINF:-1,KINO TV
+http://83.139.104.101/Content/HLS/Live/Channel(kino_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,N1
+http://83.139.104.101/Content/HLS/Live/Channel(n1)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL
+http://83.139.104.101/Content/HLS/Live/Channel(rtl_televizija)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL 2
+http://83.139.104.101/Content/HLS/Live/Channel(rtl_2)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL KOCKICA
+http://83.139.104.101/Content/HLS/Live/Channel(rtl_kockica)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL PLUS
+http://83.139.104.101/Content/HLS/Live/Channel(rtlplus)/Stream(03)/index.m3u8
+#EXTINF:-1,VOX
+http://83.139.104.101/Content/HLS/Live/Channel(vox_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,EUROSPORT
+http://83.139.104.101/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://83.139.104.101/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1,SPORTSKA TV
+http://83.139.104.101/Content/HLS/Live/Channel(sportska_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,EXTREME SPORTS
+http://83.139.104.101/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8
+#EXTINF:-1,FIGHT CHANNEL
+http://83.139.104.101/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://83.139.104.101/Content/HLS/Live/Channel(discovery_channel)/index.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://83.139.104.101/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://83.139.104.101/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://83.139.104.101/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://83.139.104.101/Content/HLS/Live/Channel(travel_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 1
+http://83.139.104.101/Content/HLS/Live/Channel(HTV1)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 2
+http://83.139.104.101/Content/HLS/Live/Channel(HTV2)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 3
+http://83.139.104.101/Content/HLS/Live/Channel(HTV3)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 4
+http://83.139.104.101/Content/HLS/Live/Channel(HTV4)/Stream(03)/index.m3u8
+#EXTINF:-1,CMC
+http://83.139.104.101/Content/HLS/Live/Channel(cmc)/Stream(03)/index.m3u8
+#EXTINF:-1,KLASIK TV
+http://83.139.104.101/Content/HLS/Live/Channel(klasik_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV
+http://83.139.104.101/Content/HLS/Live/Channel(mtv)/Stream(03)/index.m3u8
+#EXTINF:-1,24 SATA
+http://83.139.104.101/Content/HLS/Live/Channel(24_sata)/Stream(03)/index.m3u8
+#EXTINF:-1,MREZA ZG
+http://83.139.104.101/Content/HLS/Live/Channel(mrezaZG)/Stream(03)/index.m3u8
+#EXTINF:-1,MREZA ST
+http://83.139.104.101/Content/HLS/Live/Channel(mrezaST)/Stream(03)/index.m3u8
+#EXTINF:-1,CBS REALITY
+http://83.139.104.101/Content/HLS/Live/Channel(cbs_reality)/Stream(03)/index.m3u8
+#EXTINF:-1,JUGOTON
+http://83.139.104.101/Content/HLS/Live/Channel(jugoton)/Stream(03)/index.m3u8
+#EXTINF:-1,NARODNA TV
+http://83.139.104.101/Content/HLS/Live/Channel(narodna_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,FASHION
+http://83.139.104.101/Content/HLS/Live/Channel(fashion_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,OSJECKA
+http://83.139.104.101/Content/HLS/Live/Channel(osjecka_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,SBTV
+http://83.139.104.101/Content/HLS/Live/Channel(sbtv)/Stream(03)/index.m3u8
+#EXTINF:-1,MEDIASET IT
+http://83.139.104.101/Content/HLS/Live/Channel(mediaset_italia)/Stream(03)/index.m3u8
+#EXTINF:-1,RTB TV
+http://83.139.104.101/Content/HLS/Live/Channel(rtb_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,AL JAZEERA
+http://83.139.104.101/Content/HLS/Live/Channel(al_jazeera_balkans)/Stream(03)/index.m3u8
+#EXTINF:-1,DMC
+http://83.139.104.101/Content/HLS/Live/Channel(DMC)/Stream(03)/index.m3u8
+#EXTINF:-1,SRCE TV
+http://83.139.104.101/Content/HLS/Live/Channel(srce_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,KANAL 5
+http://83.139.104.101/Content/HLS/Live/Channel(kanal_5)/Stream(03)/index.m3u8
+#EXTINF:-1,KANAL RI
+http://83.139.104.101/Content/HLS/Live/Channel(KanalRI)/Stream(03)/index.m3u8
+#EXTINF:-1,VARAZDISKA TV
+http://83.139.104.101/Content/HLS/Live/Channel(VTV_varazdin)/Stream(03)/index.m3u8
+#EXTINF:-1,FULL TV
+http://83.139.104.101/Content/HLS/Live/Channel(fullTV)/Stream(03)/index.m3u8
+#EXTINF:-1,MEDIATRAVEL
+http://83.139.104.101/Content/HLS/Live/Channel(mediatravel)/Stream(03)/index.m3u8
+#EXTINF:-1,ORLANDO KIDS
+http://83.139.104.101/Content/HLS/Live/Channel(orlando_kids)/Stream(03)/index.m3u8
+#EXTINF:-1,OK BAMBINO
+http://83.139.104.101/Content/HLS/Live/Channel(ok_bambino)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV MUSIC
+http://83.139.104.101/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8
+#EXTINF:-1,TV ISTRA
+http://83.139.104.101/Content/HLS/Live/Channel(tv_istra)/Stream(03)/index.m3u8
+#EXTINF:-1,ZDRAVA TV
+http://83.139.104.101/Content/HLS/Live/Channel(ZDRAVA_TV-7)/Stream(03)/index.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://83.139.104.101/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+#EXTINF:-1,GINX
+http://83.139.104.101/Content/HLS/Live/Channel(ginx)/Stream(03)/index.m3u8
+#EXTINF:-1,JADRAN TV
+http://83.139.104.101/Content/HLS/Live/Channel(tv_jadran)/Stream(03)/index.m3u8
+#EXTINF:-1,NOVA TV PULA
+http://83.139.104.101/Content/HLS/Live/Channel(tv_nova)/Stream(03)/index.m3u8
+
+
+
+
+
+
+
+ #EXTM3U
+#EXTINF:0,Êèíîðåéñ 1
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/101/index.m3u8
+#EXTINF:0,Êèíîðåéñ 2
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/102/index.m3u8
+#EXTINF:0,Êèíîðåéñ3
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/103/index.m3u8
+#EXTINF:0,Êîìåäè ÒÂ
+#EXTGRP:ðàçâëåêàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/104/index.m3u8
+#EXTINF:0,STV
+#EXTGRP:ðàçâëåêàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/105/index.m3u8
+#EXTINF:0,ÐÁÊ-ÒÂ
+#EXTGRP:íîâîñòè
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/106/index.m3u8
+#EXTINF:0,RU.TV
+#EXTGRP:ìóçûêà
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/107/index.m3u8
+#EXTINF:0,Tiji TV
+#EXTGRP:äåòñêèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/108/index.m3u8
+#EXTINF:0,Gulli
+#EXTGRP:äåòñêèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/109/index.m3u8
+#EXTINF:0,Êèíîðåéñ 4
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/110/index.m3u8
+#EXTINF:0,Èñòîðèÿ
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/111/index.m3u8
+#EXTINF:0,Ïÿòûé Êàíàë
+#EXTGRP:íîâîñòè
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/112/index.m3u8
+#EXTINF:0,Ìèð
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/113/index.m3u8
+#EXTINF:0,Êèíîðåéñ 5
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/115/index.m3u8
+#EXTINF:0,ÌÓÇ
+#EXTGRP:ìóçûêà
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/116/index.m3u8
+#EXTINF:0,Ìîÿ Ïëàíåòà
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/117/index.m3u8
+#EXTINF:0,Íàóêà 2.0
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/118/index.m3u8
+#EXTINF:0,Outdoor Channel
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/119/index.m3u8
+#EXTINF:0,RUSONG TV
+#EXTGRP:ìóçûêà
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/120/index.m3u8
+#EXTINF:0,Ñîâ. Ñåêðåòíî
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/121/index.m3u8
+#EXTINF:0,ÒÍÒ
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/502/index.m3u8
+#EXTINF:0,Ïÿòíèöà
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/503/index.m3u8
+#EXTINF:0,Òåëåêàíàë «Ðîññèÿ»
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/504/index.m3u8
+#EXTINF:0,Ðîññèÿ-Êóëüòóðà
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/505/index.m3u8
+#EXTINF:0,ÑÒÑ
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/506/index.m3u8
+#EXTINF:0,Ðîññèÿ-24
+#EXTGRP:íîâîñòè
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/507/index.m3u8
+#EXTINF:0,ÒÂ3
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/508/index.m3u8
+#EXTINF:0,ÊÈÍÎÑÎÞÇ
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/509/index.m3u8
+#EXTINF:0,Bridge TV
+#EXTGRP:ìóçûêà
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/122/index.m3u8
+#EXTINF:0,ÍÒÂ-ÏËÞÑ Ñïîðò
+#EXTGRP:ñïîðò
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/123/index.m3u8
+#EXTINF:0,ÍÒÂ-ÏËÞÑ Ôóòáîë
+#EXTGRP:ñïîðò
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/124/index.m3u8
+#EXTINF:0,Ïðåìüåðà
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/125/index.m3u8
+#EXTINF:0,Íàøå Êèíî
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/126/index.m3u8
+#EXTINF:0,Ïåðâûé êàíàë
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/127/index.m3u8
+
+Í ÒÂ
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/128/index.m3u8
+#EXTINF:0,Ïåðâûé HD
+#EXTGRP:HD
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/129/index.m3u8
+#EXTINF:0,Êèíîõèò
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/516/index.m3u8
+#EXTINF:0,Íàø ôóòáîë
+#EXTGRP:ñïîðò
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/531/index.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:äåòñêèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/541/index.m3u8
+#EXTINF:0,Disney
+#EXTGRP:äåòñêèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/524/index.m3u8
+#EXTINF:0,Amedia 2
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/510/index.m3u8
+#EXTINF:0,24 ÄÎÊ
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/512/index.m3u8
+#EXTINF:0,Ïåðåö
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/513/index.m3u8
+#EXTINF:0,Äîìàøíèé
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/514/index.m3u8
+#EXTINF:0,ÒÍÂ-Ïëàíåòà
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/515/index.m3u8
+#EXTINF:0,Íàøå íîâîå êèíî
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/517/index.m3u8
+#EXTINF:0,Life News
+#EXTGRP:íîâîñòè
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/518/index.m3u8
+#EXTINF:0,KHL
+#EXTGRP:ñïîðò
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/519/index.m3u8
+#EXTINF:0,Êèíîëþêñ
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/521/index.m3u8
+#EXTINF:0,ÑïîðòÕèò
+#EXTGRP:ñïîðò
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/522/index.m3u8
+#EXTINF:0,Ìîñêâà 24
+#EXTGRP:íîâîñòè
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/523/index.m3u8
+#EXTINF:0,TV XXI
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/527/index.m3u8
+#EXTINF:0,E!Russia
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/537/index.m3u8
+#EXTINF:0,Àâòî 24
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/538/index.m3u8
+#EXTINF:0,Eurosport 2
+#EXTGRP:ñïîðò
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/539/index.m3u8
+#EXTINF:0,Bloomberg
+#EXTGRP:íîâîñòè
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/540/index.m3u8
+#EXTINF:0,Universal Channel
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/542/index.m3u8
+#EXTINF:0,Äåòñêèé ìèð
+#EXTGRP:äåòñêèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/543/index.m3u8
+#EXTINF:0,ÍÒÂ Ìèð
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/544/index.m3u8
+#EXTINF:0,ÍÒÂ Òåííèñ
+#EXTGRP:ñïîðò
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/528/index.m3u8
+#EXTINF:0,ÍÒÂ Áàñêåòáîë
+#EXTGRP:ñïîðò
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/529/index.m3u8
+#EXTINF:0,ÍÒÂ Ôóòáîë 2
+#EXTGRP:ñïîðò
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/530/index.m3u8
+#EXTINF:0,ÍÒÂ Ñïîðò Ñîþç
+#EXTGRP:ñïîðò
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/532/index.m3u8
+#EXTINF:0,Ðóññêèé Ýêñòðèì
+#EXTGRP:ñïîðò
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/533/index.m3u8
+#EXTINF:0,Ðîññèÿ 2
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/535/index.m3u8
+#EXTINF:0,ÑÒÁ
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/132/index.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/133/index.m3u8
+#EXTINF:0,nat geographic
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/134/index.m3u8
+#EXTINF:0,Discovery World
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/135/index.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/136/index.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/137/index.m3u8
+#EXTINF:0,Jim Jam
+#EXTGRP:äåòñêèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/138/index.m3u8
+#EXTINF:0,Investigation Discovery
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/139/index.m3u8
+#EXTINF:0,Discovery Channel
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/140/index.m3u8
+#EXTINF:0,Eurosport
+#EXTGRP:ñïîðò
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/141/index.m3u8
+#EXTINF:0,MTV
+#EXTGRP:ìóçûêà
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/142/index.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:äåòñêèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/143/index.m3u8
+#EXTINF:0,Extreme Sports
+#EXTGRP:ñïîðò
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/144/index.m3u8
+#EXTINF:0,Êîìåäèÿ
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/145/index.m3u8
+#EXTINF:0,Èíäèÿ ÒÂ
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/147/index.m3u8
+#EXTINF:0,Ìíîãî ÒÂ
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/148/index.m3u8
+#EXTINF:0,Èíòåðåñíîå ÒÂ
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/149/index.m3u8
+#EXTINF:0,Áîåö
+#EXTGRP:ñïîðò
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/150/index.m3u8
+#EXTINF:0,Àâòî Ïëþñ
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/151/index.m3u8
+#EXTINF:0,Êóõíÿ ÒÂ
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/152/index.m3u8
+#EXTINF:0,?1
+#EXTGRP:????????
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/601/index.m3u8
+#EXTINF:0,??? 21
+#EXTGRP:????????
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/602/index.m3u8
+#EXTINF:0,?2
+#EXTGRP:????????
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/603/index.m3u8
+#EXTINF:0,????
+#EXTGRP:????????
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/604/index.m3u8
+#EXTINF:0,??????? Tv HD
+#EXTGRP:????????
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/605/index.m3u8
+#EXTINF:0,???????
+#EXTGRP:????????
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/606/index.m3u8
+#EXTINF:0,Lime tv
+#EXTGRP:????????
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/607/index.m3u8
+#EXTINF:0,????? ?????
+#EXTGRP:????????
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/608/index.m3u8
+#EXTINF:0,ATV
+#EXTGRP:????????
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/609/index.m3u8
+#EXTINF:0,??
+#EXTGRP:????????
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/610/index.m3u8
+#EXTINF:0,????????
+#EXTGRP:????????
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/611/index.m3u8
+#EXTINF:0,?3
+#EXTGRP:????????
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/612/index.m3u8
+#EXTINF:0,???????
+#EXTGRP:????????
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/613/index.m3u8
+#EXTINF:0,ÐÒÐ Ïëàíåòà
+#EXTGRP:äðóãèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/546/index.m3u8
+#EXTINF:0,Ðóññêèé Èëëþçèîí
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/547/index.m3u8
+#EXTINF:0,Èëëþçèîí +
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/548/index.m3u8
+
+âðîêèíî
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/549/index.m3u8
+#EXTINF:0,Fox Russia
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/550/index.m3u8
+#EXTINF:0,Âðåìÿ
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/552/index.m3u8
+#EXTINF:0,Fox Life
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/553/index.m3u8
+#EXTINF:0,??????? Tv
+#EXTGRP:????????
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/614/index.m3u8
+#EXTINF:0,MTV Hits
+#EXTGRP:ìóçûêà
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/153/index.m3u8
+#EXTINF:0,Äîì Êèíî
+#EXTGRP:êèíî
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/154/index.m3u8
+#EXTINF:0,Ìóçûêà
+#EXTGRP:ìóçûêà
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/155/index.m3u8
+#EXTINF:0,Êàðóñåëü
+#EXTGRP:äåòñêèå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/156/index.m3u8
+#EXTINF:0,Paramount Comedy Russia
+#EXTGRP:ðàçâëåêàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/157/index.m3u8
+#EXTINF:0,Äîìàøíèå Æèâîòíûå
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/158/index.m3u8
+#EXTINF:0,Îõîòà è Ðûáàëêà
+#EXTGRP:ïîçíàâàòåëüíûå
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/159/index.m3u8
+#EXTINF:0,?1 International
+#EXTGRP:????????
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/615/index.m3u8
+#EXTINF:0,MTV.AM HD
+#EXTGRP:????????
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/616/index.m3u8
+#EXTINF:0,MTV.AM
+#EXTGRP:????????
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/617/index.m3u8
+
+
+
+
+
+
+13.3.2015
+
+EXTINF:-0,ANIMAL PLANET
+http://113.160.49.34/lives/origin03/animalsd.isml/animalsd-1096k.m3u8
+
+#EXTINF:-0, CINEMAX
+http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
+
+#EXTINF:0, STAR SPORTS
+http://113.160.49.34/lives/origin03/starsportsd.isml/starsportsd-1096k.m3u8
+
+#EXTINF:-0, CHANNEL V
+http://113.160.49.34/lives/origin03/channelvsd.isml/channelvsd-1096k.m3u8
+
+#EXTINF:-0, FASHION HD
+http://113.160.49.34/lives/origin03/fashionhd.isml/fashionhd-2096k.m3u8
+
+#EXTINF:-1, BBC World News
+http://46.59.28.215:4848/bynumber/2
+
+#‎EXTINF‬:-1,HBO HD
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+
+#EXTINF:-1,STAR MOVIE HD
+http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
+
+#EXTINF:-1,AXN HD
+
+http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
+5.3.2015
+
+#EXTINF:-1,CINESTAR
+http://83.139.104.107/Content/HLS/Live/Channel(cinestar_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR AT
+http://83.139.104.107/Content/HLS/Live/Channel(CINESTAR_ACTION_AND_THRILLER)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://83.139.104.107/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR PREMHERE 2
+http://83.139.104.107/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8
+#EXTINF:-1,KINO TV
+http://83.139.104.107/Content/HLS/Live/Channel(kino_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,N1
+http://83.139.104.107/Content/HLS/Live/Channel(n1)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL
+http://83.139.104.107/Content/HLS/Live/Channel(rtl_televizija)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL 2
+http://83.139.104.107/Content/HLS/Live/Channel(rtl_2)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL KOCKICA
+http://83.139.104.107/Content/HLS/Live/Channel(rtl_kockica)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL PLUS
+http://83.139.104.107/Content/HLS/Live/Channel(rtlplus)/Stream(03)/index.m3u8
+#EXTINF:-1,VOX
+http://83.139.104.107/Content/HLS/Live/Channel(vox_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,EUROSPORT
+http://83.139.104.107/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://83.139.104.107/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1,SPORTSKA TV
+http://83.139.104.107/Content/HLS/Live/Channel(sportska_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,EXTREME SPORTS
+http://83.139.104.107/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8
+#EXTINF:-1,FIGHT CHANNEL
+http://83.139.104.107/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://83.139.104.107/Content/HLS/Live/Channel(discovery_channel)/index.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://83.139.104.107/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://83.139.104.107/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://83.139.104.107/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://83.139.104.107/Content/HLS/Live/Channel(travel_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 1
+http://83.139.104.107/Content/HLS/Live/Channel(HTV1)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 2
+http://83.139.104.107/Content/HLS/Live/Channel(HTV2)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 3
+http://83.139.104.107/Content/HLS/Live/Channel(HTV3)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 4
+http://83.139.104.107/Content/HLS/Live/Channel(HTV4)/Stream(03)/index.m3u8
+#EXTINF:-1,CMC
+http://83.139.104.107/Content/HLS/Live/Channel(cmc)/Stream(03)/index.m3u8
+#EXTINF:-1,KLASIK TV
+http://83.139.104.107/Content/HLS/Live/Channel(klasik_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV
+http://83.139.104.107/Content/HLS/Live/Channel(mtv)/Stream(03)/index.m3u8
+#EXTINF:-1,24 SATA
+http://83.139.104.107/Content/HLS/Live/Channel(24_sata)/Stream(03)/index.m3u8
+#EXTINF:-1,MREZA ZG
+http://83.139.104.107/Content/HLS/Live/Channel(mrezaZG)/Stream(03)/index.m3u8
+#EXTINF:-1,MREZA ST
+http://83.139.104.107/Content/HLS/Live/Channel(mrezaST)/Stream(03)/index.m3u8
+#EXTINF:-1,CBS REALITY
+http://83.139.104.107/Content/HLS/Live/Channel(cbs_reality)/Stream(03)/index.m3u8
+#EXTINF:-1,JUGOTON
+http://83.139.104.107/Content/HLS/Live/Channel(jugoton)/Stream(03)/index.m3u8
+#EXTINF:-1,NARODNA TV
+http://83.139.104.107/Content/HLS/Live/Channel(narodna_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,FASHION
+http://83.139.104.107/Content/HLS/Live/Channel(fashion_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,OSJECKA
+http://83.139.104.107/Content/HLS/Live/Channel(osjecka_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,SBTV
+http://83.139.104.107/Content/HLS/Live/Channel(sbtv)/Stream(03)/index.m3u8
+#EXTINF:-1,MEDIASET IT
+http://83.139.104.107/Content/HLS/Live/Channel(mediaset_italia)/Stream(03)/index.m3u8
+#EXTINF:-1,RTB TV
+http://83.139.104.107/Content/HLS/Live/Channel(rtb_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,AL JAZEERA
+http://83.139.104.107/Content/HLS/Live/Channel(al_jazeera_balkans)/Stream(03)/index.m3u8
+#EXTINF:-1,DMC
+http://83.139.104.107/Content/HLS/Live/Channel(DMC)/Stream(03)/index.m3u8
+#EXTINF:-1,SRCE TV
+http://83.139.104.107/Content/HLS/Live/Channel(srce_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,KANAL 5
+http://83.139.104.107/Content/HLS/Live/Channel(kanal_5)/Stream(03)/index.m3u8
+#EXTINF:-1,KANAL RI
+http://83.139.104.107/Content/HLS/Live/Channel(KanalRI)/Stream(03)/index.m3u8
+#EXTINF:-1,VARAZDISKA TV
+http://83.139.104.107/Content/HLS/Live/Channel(VTV_varazdin)/Stream(03)/index.m3u8
+#EXTINF:-1,FULL TV
+http://83.139.104.107/Content/HLS/Live/Channel(fullTV)/Stream(03)/index.m3u8
+#EXTINF:-1,MEDIATRAVEL
+http://83.139.104.107/Content/HLS/Live/Channel(mediatravel)/Stream(03)/index.m3u8
+#EXTINF:-1,ORLANDO KIDS
+http://83.139.104.107/Content/HLS/Live/Channel(orlando_kids)/Stream(03)/index.m3u8
+#EXTINF:-1,OK BAMBINO
+http://83.139.104.107/Content/HLS/Live/Channel(ok_bambino)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV MUSIC
+http://83.139.104.107/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8
+#EXTINF:-1,TV ISTRA
+http://83.139.104.107/Content/HLS/Live/Channel(tv_istra)/Stream(03)/index.m3u8
+#EXTINF:-1,ZDRAVA TV
+http://83.139.104.107/Content/HLS/Live/Channel(ZDRAVA_TV-7)/Stream(03)/index.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://83.139.104.107/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+#EXTINF:-1,GINX
+http://83.139.104.107/Content/HLS/Live/Channel(ginx)/Stream(03)/index.m3u8
+#EXTINF:-1,JADRAN TV
+http://83.139.104.107/Content/HLS/Live/Channel(tv_jadran)/Stream(03)/index.m3u8
+#EXTINF:-1,NOVA TV PULA
+http://83.139.104.107/Content/HLS/Live/Channel(tv_nova)/Stream(03)/index.m3u8
+
+3.3.2015
+
+FOX ACTION
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=304&lan=2&rows=40&f=.m3u8
+FOX FAM
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=343&lan=2&rows=40&f=.m3u8
+FOX PREM
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=300&lan=2&rows=40&f=.m3u8
+FOX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=88&lan=2&rows=40&f=.m3u8
+FX HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=104&lan=2&rows=40&f=.m3u8
+SONY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=92&lan=2&rows=40&f=.m3u8
+SPACE HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=25&lan=2&rows=40&f=.m3u8
+STUDIO UNIVERSAL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=27&lan=2&rows=40&f=.m3u8
+DISCOVERY THEATER
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=244&lan=2&rows=40&f=.m3u8
+HISTORY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=248&lan=2&rows=40&f=.m3u8
+TLC HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=256&lan=2&rows=40&f=.m3u8
+DISCOVERY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=260&lan=2&rows=40&f=.m3u8
+ANIMAL PLANET
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=264&lan=2&rows=40&f=.m3u8
+NATIONAL GEOGRAPHIC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=272&lan=2&rows=40&f=.m3u8
+DISCOVERY SCI
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=280&lan=2&rows=40&f=.m3u8
+DISCOVERY CIVILIZATION
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=284&lan=2&rows=40&f=.m3u8
+DISCOVERY TURBO
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=288&lan=2&rows=40&f=.m3u8
+UNIVERSAL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=100&lan=2&rows=40&f=.m3u8
+SYFY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=141&lan=2&rows=40&f=.m3u8
+TCM
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=402&lan=2&rows=40&f=.m3u8
+WARNER BROSS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=96&lan=2&rows=40&f=.m3u8
+AXN HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=112&lan=2&rows=40&f=.m3u8
+BBC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=129&lan=2&rows=40&f=.m3u8
+TRU TV
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=116&lan=2&rows=40&f=.m3u8
+VH1
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=440&lan=2&rows=40&f=.m3u8
+MTV Live
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=432&lan=2&rows=40&f=.m3u8
+HD720 TBS VERYFUNNY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=177&lan=2&rows=40&f=.m3u8
+HD720 TLNOVELAS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=185&lan=2&rows=40&f=.m3u8
+HD1024 TBS VERYFUNNY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=178&lan=2&rows=40&f=.m3u8
+HD1024 TLNOVELAS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=186&lan=2&rows=40&f=.m3u8
+HD720 Boomerang
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=229&lan=2&rows=40&f=.m3u8
+HD720 DISCOVERY KIDS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=193&lan=2&rows=40&f=.m3u8
+HD720 CBEEBIES
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=197&lan=2&rows=40&f=.m3u8
+HD720 DISNEY JR
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=201&lan=2&rows=40&f=.m3u8
+HD720 NICK JR
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=205&lan=2&rows=40&f=.m3u8
+HD720 DISNEY CHANNEL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
+HD720 NICK HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=213&lan=2&rows=40&f=.m3u8
+HD720 NICK
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=217&lan=2&rows=40&f=.m3u8
+HD720 CARTOON NETWORK
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&rows=40&f=.m3u8
+HD720 DISNEY XD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=225&lan=2&rows=40&f=.m3u8
+HD720 TIIN
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=233&lan=2&rows=40&f=.m3u8
+HD720 TOONCAST
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=237&lan=2&rows=40&f=.m3u8
+HD720 NICKTOONS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=465&lan=2&rows=40&f=.m3u8
+HD1024 Boomerang
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=230&lan=2&rows=40&f=.m3u8
+HD1024 DISCOVERY KIDS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=194&lan=2&rows=40&f=.m3u8
+HD1024 DISNEY JR
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=202&lan=2&rows=40&f=.m3u8
+HD1024 NICK JR
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=206&lan=2&rows=40&f=.m3u8
+HD1024 DISNEY CHANNEL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=210&lan=2&rows=40&f=.m3u8
+HD1024 NICK HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=214&lan=2&rows=40&f=.m3u8
+HD1024 NICK
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=218&lan=2&rows=40&f=.m3u8
+HD1024 CARTOON NETWORK
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=222&lan=2&rows=40&f=.m3u8
+HD1024 DISNEY XD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=226&lan=2&rows=40&f=.m3u8
+HD1024 TIIN
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=234&lan=2&rows=40&f=.m3u8
+HD1024 TOONCAST
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=238&lan=2&rows=40&f=.m3u8
+HD1024 NICKTOONS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=466&lan=2&rows=40&f=.m3u8
+HD720 FOX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=85&lan=2&rows=40&f=.m3u8
+HD720 FOX M
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=125&lan=2&rows=40&f=.m3u8
+HD720 FOX LIFE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=169&lan=2&rows=40&f=.m3u8
+HD720 FOX1 HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=297&lan=2&rows=40&f=.m3u8
+HD720 FOX ACTION HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=301&lan=2&rows=40&f=.m3u8
+HD720 FOX MOVIE HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=305&lan=2&rows=40&f=.m3u8
+HD720 FOX CINEMA
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=337&lan=2&rows=40&f=.m3u8
+HD720 FOX FAMILY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=341&lan=2&rows=40&f=.m3u8
+HD720 FOX CLASSIC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=345&lan=2&rows=40&f=.m3u8
+HD720 CINECANAL HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=309&lan=2&rows=40&f=.m3u8
+HD720 CINECANAL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=349&lan=2&rows=40&f=.m3u8
+HD720 TNT HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=313&lan=2&rows=40&f=.m3u8
+HD720 TNT
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=357&lan=2&rows=40&f=.m3u8
+HD720 GOLDEN HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=317&lan=2&rows=40&f=.m3u8
+HD720 GOLDEN EDGE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=361&lan=2&rows=40&f=.m3u8
+HD720 FILM ZONE HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=321&lan=2&rows=40&f=.m3u8
+HD720 DPELICULA HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=325&lan=2&rows=40&f=.m3u8
+HD720 AMC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=329&lan=2&rows=40&f=.m3u8
+HD720 AMC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=365&lan=2&rows=40&f=.m3u8
+HD720 SPACE HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=333&lan=2&rows=40&f=.m3u8
+HD720 SPACE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=369&lan=2&rows=40&f=.m3u8
+HD720 CINEMAX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=353&lan=2&rows=40&f=.m3u8
+HD720 STUDIO UNIVERSAL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=373&lan=2&rows=40&f=.m3u8
+HD720 ISAT
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=377&lan=2&rows=40&f=.m3u8
+HD720 TCM
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=381&lan=2&rows=40&f=.m3u8
+HD720 SONY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=89&lan=2&rows=40&f=.m3u8
+HD720 WARNER
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=93&lan=2&rows=40&f=.m3u8
+HD720 UNIVERSAL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=97&lan=2&rows=40&f=.m3u8
+HD720 UNIVERSAL M
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=137&lan=2&rows=40&f=.m3u8
+HD720 FX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=101&lan=2&rows=40&f=.m3u8
+HD720 FX M
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=145&lan=2&rows=40&f=.m3u8
+HD1024 FOX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=86&lan=2&rows=40&f=.m3u8
+HD1024 FOX M
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=126&lan=2&rows=40&f=.m3u8
+HD1024 FOX LIFE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=170&lan=2&rows=40&f=.m3u8
+HD1024 FOX1 HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=298&lan=2&rows=40&f=.m3u8
+HD1024 FOX ACTION HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=302&lan=2&rows=40&f=.m3u8
+HD1024 FOX MOVIE HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=306&lan=2&rows=40&f=.m3u8
+HD1024 FOX CINEMA
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=338&lan=2&rows=40&f=.m3u8
+HD1024 FOX FAMILY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=342&lan=2&rows=40&f=.m3u8
+HD1024 FOX CLASSIC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=346&lan=2&rows=40&f=.m3u8
+HD1024 CINECANAL HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=310&lan=2&rows=40&f=.m3u8
+HD1024 CINECANAL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=350&lan=2&rows=40&f=.m3u8
+HD1024 TNT HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=314&lan=2&rows=40&f=.m3u8
+HD1024 TNT
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=358&lan=2&rows=40&f=.m3u8
+HD1024 GOLDEN HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=318&lan=2&rows=40&f=.m3u8
+HD1024 FILM ZONE HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=322&lan=2&rows=40&f=.m3u8
+HD1024 DPELICULA HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=326&lan=2&rows=40&f=.m3u8
+HD1024 AMC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=330&lan=2&rows=40&f=.m3u8
+HD1024 AMC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=366&lan=2&rows=40&f=.m3u8
+HD1024 SPACE HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=334&lan=2&rows=40&f=.m3u8
+HD1024 SPACE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=370&lan=2&rows=40&f=.m3u8
+HD1024 CINEMAX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=354&lan=2&rows=40&f=.m3u8
+27.2.2015
+
+premium sport
+http://198.27.94.105/hls/prem_1.m3u8
+
+racing uk
+http://198.27.94.105/hls/racinguk_1.m3u8
+
+Abc usa
+http://198.27.94.105/hls/abc_1.m3u8
+
+AMC USA
+http://198.27.94.105/hls/amc_1.m3u8
+
+Cbs usa
+http://198.27.94.105/hls/cbs_1.m3u8
+
+CW usa
+http://198.27.94.105/hls/cw_1.m3u8
+
+HBO usa
+http://198.27.94.105/hls/hbo_1.m3u8
+
+MTV USA
+http://198.27.94.105/hls/mtv_1.m3u8
+
+USA hd
+http://198.27.94.105/hls/usa_1.m3u8
+
+Bt sport 1
+http://198.27.94.105/hls/bt1_1.m3u8
+
+Bt sport 2
+http://198.27.94.105/hls/bt2_1.m3u8
+
+Fox sports 1
+http://198.27.94.105/hls/fox1_1.m3u8
+
+Fox sports 2
+http://198.27.94.105/hls/fox2_1.m3u8
+
+Premiere sports
+http://198.27.94.105/hls/prem_1.m3u8
+
+Sky sports 1
+http://198.27.94.105/hls/skysports1_1.m3u8
+
+Sky sports 2
+http://198.27.94.105/hls/skysports2_1.m3u8
+
+Sky sports 3
+http://198.27.94.105/hls/skysports3_1.m3u8
+
+Sky sports 4
+http://198.27.94.105/hls/skysports4_1.m3u8
+
+Sky sports 5
+http://198.27.94.105/hls/skysports5_1.m3u8
+
+Sky sports f1
+http://198.27.94.105/hls/skysportsf1_1.m3u8
+
+DUBAI SPORT 4
+http://8.21.48.19:7777/DubaiSport2_HD.m3u8
+
+DUBAI SPORT 3
+http://8.21.48.19:7777/DubaiSports_HD.m3u8
+
+ABU DHABI SPORT
+http://8.21.48.19:7777/ADSport_HD.m3u8
+
+ALNAHAR SPORT
+http://8.21.48.19:7777/AlNaharSport_HD.m3u8
+
+JORDAN SPORT
+http://8.21.48.19:7777/JordanSport_HD.m3u8
+
+Astro sport 1
+http://27.131.144.176:8081/web/assp1/playlist.m3u8
+
+Astro sport 2
+http://27.131.144.176:8081/web/assp2/playlist.m3u8
+
+Astro sport 3
+http://27.131.144.176:8081/web/assp3/playlist.m3u8
+
+Astro sport 4
+http://27.131.144.176:8081/web/assp4/playlist.m3u8
+25.2.2015
+
+#EXTINF:0,HRT 1 
+http://83.139.104.99/Content/HLS/Live/Channel(HTV1)/Stream(03)/index.m3u8 
+
+#EXTINF:0,HRT 2 
+http://83.139.104.99/Content/HLS/Live/Channel(HTV2)/Stream(03)/index.m3u8 
+
+#EXTINF:0,HRT 3 
+http://83.139.104.99/Content/HLS/Live/Channel(HTV3)/Stream(03)/index.m3u8 
+
+#EXTINF:0,HRT 4 
+http://83.139.104.99/Content/HLS/Live/Channel(HTV4)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,KLASIK TV 
+http://83.139.104.99/Content/HLS/Live/Channel(klasik_tv)/Stream(03)/index.m3u8 
+
+#EXTINF:0,RTL KOCKICA 
+http://83.139.104.99/Content/HLS/Live/Channel(rtl_kockica)/Stream(03)/index.m3u8 
+
+#EXTINF:0,RTL 2 
+http://83.139.104.99/Content/HLS/Live/Channel(rtl_2)/Stream(03)/index.m3u8 
+
+#EXTINF:0,RTL PLUS 
+http://83.139.104.99/Content/HLS/Live/Channel(rtlplus)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,VOX 
+http://83.139.104.99/Content/HLS/Live/Channel(vox_tv)/Stream(03)/index.m3u8 
+
+#EXTINF:0,CINESTAR PREMIERE 2 
+http://83.139.104.99/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8 
+
+#EXTINF:0,CINESTAR PREMIERE 1 
+http://83.139.104.99/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,CINESTAR ACTION 
+http://83.139.104.99/Content/HLS/Live/Channel(CINESTAR_ACTION_AND_THRILLER)/Stream(03)/index.m3u8 
+
+#EXTINF:0,CINESTAR TV 
+http://83.139.104.99/Content/HLS/Live/Channel(cinestar_tv)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,SPORTSKA TV 
+http://83.139.104.99/Content/HLS/Live/Channel(sportska_tv)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,EXTREME SPORTS 
+http://83.139.104.99/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,FIGHT CHANNEL 
+http://83.139.104.99/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,Discovery 
+http://83.139.104.99/Content/HLS/Live/Channel(discovery_channel)/Stream(03)/index.m3u8 
+
+#EXTINF:0,VIASAT EXPLORER 
+http://83.139.104.99/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8 
+
+#EXTINF:0,Viasat History 
+http://83.139.104.99/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8 
+
+#EXTINF:0,TRAVEL CHANNEL 
+http://83.139.104.99/Content/HLS/Live/Channel(travel_channel)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,CMC 
+http://83.139.104.99/Content/HLS/Live/Channel(cmc)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,MTV 
+http://83.139.104.99/Content/HLS/Live/Channel(mtv)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,24 SATA 
+http://83.139.104.99/Content/HLS/Live/Channel(24_sata)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,MREZA ZG 
+http://83.139.104.99/Content/HLS/Live/Channel(mrezaZG)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,MREZA ST 
+http://83.139.104.99/Content/HLS/Live/Channel(mrezaST)/Stream(03)/index.m3u8 
+
+#EXTINF:0,TLC 
+http://83.139.104.99/Content/HLS/Live/Channel(TLC)/Stream(03)/index.m3u8 
+
+#EXTINF:0,ANIMAL PLANET 
+http://83.139.104.99/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8 
+
+#EXTINF:0,CBS REALITY 
+http://83.139.104.99/Content/HLS/Live/Channel(cbs_reality)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,Eurosport 
+http://83.139.104.99/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,Eurosport 2 
+http://83.139.104.99/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8 
+
+JUGOTON 
+http://83.139.104.99/Content/HLS/Live/Channel(jugoton)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,KINO TV 
+http://83.139.104.99/Content/HLS/Live/Channel(kino_tv)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,NARODNA TV 
+http://83.139.104.99/Content/HLS/Live/Channel(narodna_tv)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,FASHION 
+http://83.139.104.99/Content/HLS/Live/Channel(fashion_tv)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,OSJECKA 
+http://83.139.104.99/Content/HLS/Live/Channel(osjecka_tv)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,SBTV 
+http://83.139.104.99/Content/HLS/Live/Channel(sbtv)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,MEDIASET IT 
+http://83.139.104.99/Content/HLS/Live/Channel(mediaset_italia)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,RTB TV 
+http://83.139.104.99/Content/HLS/Live/Channel(rtb_tv)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,AL JAZEERA 
+http://83.139.104.99/Content/HLS/Live/Channel(al_jazeera_balkans)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,DMC 
+http://83.139.104.99/Content/HLS/Live/Channel(DMC)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,SRCE TV 
+http://83.139.104.99/Content/HLS/Live/Channel(srce_tv)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,KANAL 5 
+http://83.139.104.99/Content/HLS/Live/Channel(kanal_5)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,KANAL RI 
+http://83.139.104.99/Content/HLS/Live/Channel(KanalRI)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,VARAZDISKA TV 
+http://83.139.104.99/Content/HLS/Live/Channel(VTV_varazdin)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,FULL TV 
+http://83.139.104.99/Content/HLS/Live/Channel(fullTV)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,MEDIATRAVEL 
+http://83.139.104.99/Content/HLS/Live/Channel(mediatravel)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,ORLANDO KIDS 
+http://83.139.104.99/Content/HLS/Live/Channel(orlando_kids)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,OK BAMBINO 
+http://83.139.104.99/Content/HLS/Live/Channel(ok_bambino)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,MTV MUSIC 
+http://83.139.104.99/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,TV ISTRA 
+http://83.139.104.99/Content/HLS/Live/Channel(tv_istra)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,ZDRAVA TV 
+http://83.139.104.99/Content/HLS/Live/Channel(ZDRAVA_TV-7)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,FOOD NETWORK 
+http://83.139.104.99/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,GINX 
+http://83.139.104.99/Content/HLS/Live/Channel(ginx)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,JADRAN TV 
+http://83.139.104.99/Content/HLS/Live/Channel(tv_jadran)/Stream(03)/index.m3u8 
+
+#EXTINF:-1,NOVA TV PULA 
+http://83.139.104.99/Content/HLS/Live/Channel(tv_nova)/Stream(03)/index.m3u8 
+
+#EXTINF:O,FINE LIVING 
+http://83.139.104.99/Content/HLS/Live/Channel(fine_living)/Stream(03)/index.m3u8
+
+25.2.2015
+
+#EXTINF:-1,CINESTAR
+http://83.139.104.112/Content/HLS/Live/Channel(cinestar_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR AT
+http://83.139.104.112/Content/HLS/Live/Channel(CINESTAR_ACTION_AND_THRILLER)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://83.139.104.112/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR PREMHERE 2
+http://83.139.104.112/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8
+#EXTINF:-1,KINO TV
+http://83.139.104.112/Content/HLS/Live/Channel(kino_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,N1
+http://83.139.104.112/Content/HLS/Live/Channel(n1)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL
+http://83.139.104.112/Content/HLS/Live/Channel(rtl_televizija)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL 2
+http://83.139.104.112/Content/HLS/Live/Channel(rtl_2)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL KOCKICA
+http://83.139.104.112/Content/HLS/Live/Channel(rtl_kockica)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL PLUS
+http://83.139.104.112/Content/HLS/Live/Channel(rtlplus)/Stream(03)/index.m3u8
+#EXTINF:-1,VOX
+http://83.139.104.112/Content/HLS/Live/Channel(vox_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,EUROSPORT
+http://83.139.104.112/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://83.139.104.112/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1,SPORTSKA TV
+http://83.139.104.112/Content/HLS/Live/Channel(sportska_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,EXTREME SPORTS
+http://83.139.104.112/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8
+#EXTINF:-1,FIGHT CHANNEL
+http://83.139.104.112/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://83.139.104.112/Content/HLS/Live/Channel(discovery_channel)/index.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://83.139.104.112/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://83.139.104.112/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://83.139.104.112/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://83.139.104.112/Content/HLS/Live/Channel(travel_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 1
+http://83.139.104.112/Content/HLS/Live/Channel(HTV1)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 2
+http://83.139.104.112/Content/HLS/Live/Channel(HTV2)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 3
+http://83.139.104.112/Content/HLS/Live/Channel(HTV3)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 4
+http://83.139.104.112/Content/HLS/Live/Channel(HTV4)/Stream(03)/index.m3u8
+#EXTINF:-1,CMC
+http://83.139.104.112/Content/HLS/Live/Channel(cmc)/Stream(03)/index.m3u8
+#EXTINF:-1,KLASIK TV
+http://83.139.104.112/Content/HLS/Live/Channel(klasik_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV
+http://83.139.104.112/Content/HLS/Live/Channel(mtv)/Stream(03)/index.m3u8
+#EXTINF:-1,24 SATA
+http://83.139.104.112/Content/HLS/Live/Channel(24_sata)/Stream(03)/index.m3u8
+#EXTINF:-1,MREZA ZG
+http://83.139.104.112/Content/HLS/Live/Channel(mrezaZG)/Stream(03)/index.m3u8
+#EXTINF:-1,MREZA ST
+http://83.139.104.112/Content/HLS/Live/Channel(mrezaST)/Stream(03)/index.m3u8
+#EXTINF:-1,CBS REALITY
+http://83.139.104.112/Content/HLS/Live/Channel(cbs_reality)/Stream(03)/index.m3u8
+#EXTINF:-1,JUGOTON
+http://83.139.104.112/Content/HLS/Live/Channel(jugoton)/Stream(03)/index.m3u8
+#EXTINF:-1,NARODNA TV
+http://83.139.104.112/Content/HLS/Live/Channel(narodna_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,FASHION
+http://83.139.104.112/Content/HLS/Live/Channel(fashion_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,OSJECKA
+http://83.139.104.112/Content/HLS/Live/Channel(osjecka_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,SBTV
+http://83.139.104.112/Content/HLS/Live/Channel(sbtv)/Stream(03)/index.m3u8
+#EXTINF:-1,MEDIASET IT
+http://83.139.104.112/Content/HLS/Live/Channel(mediaset_italia)/Stream(03)/index.m3u8
+#EXTINF:-1,RTB TV
+http://83.139.104.112/Content/HLS/Live/Channel(rtb_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,AL JAZEERA
+http://83.139.104.112/Content/HLS/Live/Channel(al_jazeera_balkans)/Stream(03)/index.m3u8
+#EXTINF:-1,DMC
+http://83.139.104.112/Content/HLS/Live/Channel(DMC)/Stream(03)/index.m3u8
+#EXTINF:-1,SRCE TV
+http://83.139.104.112/Content/HLS/Live/Channel(srce_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,KANAL 5
+http://83.139.104.112/Content/HLS/Live/Channel(kanal_5)/Stream(03)/index.m3u8
+#EXTINF:-1,KANAL RI
+http://83.139.104.112/Content/HLS/Live/Channel(KanalRI)/Stream(03)/index.m3u8
+#EXTINF:-1,VARAZDISKA TV
+http://83.139.104.112/Content/HLS/Live/Channel(VTV_varazdin)/Stream(03)/index.m3u8
+#EXTINF:-1,FULL TV
+http://83.139.104.112/Content/HLS/Live/Channel(fullTV)/Stream(03)/index.m3u8
+#EXTINF:-1,MEDIATRAVEL
+http://83.139.104.112/Content/HLS/Live/Channel(mediatravel)/Stream(03)/index.m3u8
+#EXTINF:-1,ORLANDO KIDS
+http://83.139.104.112/Content/HLS/Live/Channel(orlando_kids)/Stream(03)/index.m3u8
+#EXTINF:-1,OK BAMBINO
+http://83.139.104.112/Content/HLS/Live/Channel(ok_bambino)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV MUSIC
+http://83.139.104.112/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8
+#EXTINF:-1,TV ISTRA
+http://83.139.104.112/Content/HLS/Live/Channel(tv_istra)/Stream(03)/index.m3u8
+#EXTINF:-1,ZDRAVA TV
+http://83.139.104.112/Content/HLS/Live/Channel(ZDRAVA_TV-7)/Stream(03)/index.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://83.139.104.112/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+#EXTINF:-1,GINX
+http://83.139.104.112/Content/HLS/Live/Channel(ginx)/Stream(03)/index.m3u8
+#EXTINF:-1,JADRAN TV
+http://83.139.104.112/Content/HLS/Live/Channel(tv_jadran)/Stream(03)/index.m3u8
+#EXTINF:-1,NOVA TV PULA
+http://83.139.104.112/Content/HLS/Live/Channel(tv_nova)/Stream(03)/index.m3u8
+
+#EXTINF:0,BRAZZERS +18
+http://83.139.104.112/Content/HLS/Live/Channel(brazzers_tv)/Stream(03)/index.m3u8
+#EXTINF:0,DORCEL TV +18
+http://83.139.104.112/Content/HLS/Live/Channel(dorcel_tv)/Stream(03)/index.m3u8
+#EXTINF:0, KOD p l a y b o y_TV
+http://83.139.104.112/Content/HLS/Live/Channel(*******_tv)/Stream(03)/index.m3u8
+#EXTINF:-1, kod A D U L T_C HANNEL
+http://83.139.104.112/Content/HLS/Live/Channel(*****_CHANNEL)/Stream(03)/index.m3u8
+
+23.2.2015
+#EXTINF:-1,CINESTAR
+http://83.139.104.99/Content/HLS/Live/Channel(cinestar_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR AT
+http://83.139.104.99/Content/HLS/Live/Channel(CINESTAR_ACTION_AND_THRILLER)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://83.139.104.99/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR PREMHERE 2
+http://83.139.104.99/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8
+#EXTINF:-1,KINO TV
+http://83.139.104.99/Content/HLS/Live/Channel(kino_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,N1
+http://83.139.104.99/Content/HLS/Live/Channel(n1)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL
+http://83.139.104.99/Content/HLS/Live/Channel(rtl_televizija)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL 2
+http://83.139.104.99/Content/HLS/Live/Channel(rtl_2)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL KOCKICA
+http://83.139.104.99/Content/HLS/Live/Channel(rtl_kockica)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL PLUS
+http://83.139.104.99/Content/HLS/Live/Channel(rtlplus)/Stream(03)/index.m3u8
+#EXTINF:-1,VOX
+http://83.139.104.99/Content/HLS/Live/Channel(vox_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,EUROSPORT
+http://83.139.104.99/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://83.139.104.99/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1,SPORTSKA TV
+http://83.139.104.99/Content/HLS/Live/Channel(sportska_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,EXTREME SPORTS
+http://83.139.104.99/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8
+#EXTINF:-1,FIGHT CHANNEL
+http://83.139.104.99/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://83.139.104.99/Content/HLS/Live/Channel(discovery_channel)/index.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://83.139.104.99/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://83.139.104.99/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://83.139.104.99/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://83.139.104.99/Content/HLS/Live/Channel(travel_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 1
+http://83.139.104.99/Content/HLS/Live/Channel(HTV1)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 2
+http://83.139.104.99/Content/HLS/Live/Channel(HTV2)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 3
+http://83.139.104.99/Content/HLS/Live/Channel(HTV3)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 4
+http://83.139.104.99/Content/HLS/Live/Channel(HTV4)/Stream(03)/index.m3u8
+#EXTINF:-1,CMC
+http://83.139.104.99/Content/HLS/Live/Channel(cmc)/Stream(03)/index.m3u8
+#EXTINF:-1,KLASIK TV
+http://83.139.104.99/Content/HLS/Live/Channel(klasik_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV
+http://83.139.104.99/Content/HLS/Live/Channel(mtv)/Stream(03)/index.m3u8
+#EXTINF:-1,24 SATA
+http://83.139.104.99/Content/HLS/Live/Channel(24_sata)/Stream(03)/index.m3u8
+#EXTINF:-1,MREZA ZG
+http://83.139.104.99/Content/HLS/Live/Channel(mrezaZG)/Stream(03)/index.m3u8
+#EXTINF:-1,MREZA ST
+http://83.139.104.99/Content/HLS/Live/Channel(mrezaST)/Stream(03)/index.m3u8
+#EXTINF:-1,CBS REALITY
+http://83.139.104.9/Content/HLS/Live/Channel(cbs_reality)/Stream(03)/index.m3u8
+#EXTINF:-1,JUGOTON
+http://83.139.104.99/Content/HLS/Live/Channel(jugoton)/Stream(03)/index.m3u8
+#EXTINF:-1,NARODNA TV
+http://83.139.104.99/Content/HLS/Live/Channel(narodna_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,FASHION
+http://83.139.104.99/Content/HLS/Live/Channel(fashion_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,OSJECKA
+http://83.139.104.99/Content/HLS/Live/Channel(osjecka_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,SBTV
+http://83.139.104.99/Content/HLS/Live/Channel(sbtv)/Stream(03)/index.m3u8
+#EXTINF:-1,MEDIASET IT
+http://83.139.104.99/Content/HLS/Live/Channel(mediaset_italia)/Stream(03)/index.m3u8
+#EXTINF:-1,RTB TV
+http://83.139.104.99/Content/HLS/Live/Channel(rtb_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,AL JAZEERA
+http://83.139.104.99/Content/HLS/Live/Channel(al_jazeera_balkans)/Stream(03)/index.m3u8
+#EXTINF:-1,DMC
+http://83.139.104.99/Content/HLS/Live/Channel(DMC)/Stream(03)/index.m3u8
+#EXTINF:-1,SRCE TV
+http://83.139.104.99/Content/HLS/Live/Channel(srce_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,KANAL 5
+http://83.139.104.99/Content/HLS/Live/Channel(kanal_5)/Stream(03)/index.m3u8
+#EXTINF:-1,KANAL RI
+http://83.139.104.99/Content/HLS/Live/Channel(KanalRI)/Stream(03)/index.m3u8
+#EXTINF:-1,VARAZDISKA TV
+http://83.139.104.99/Content/HLS/Live/Channel(VTV_varazdin)/Stream(03)/index.m3u8
+#EXTINF:-1,FULL TV
+http://83.139.104.103/Content/HLS/Live/Channel(fullTV)/Stream(03)/index.m3u8
+#EXTINF:-1,MEDIATRAVEL
+http://83.139.104.99/Content/HLS/Live/Channel(mediatravel)/Stream(03)/index.m3u8
+#EXTINF:-1,ORLANDO KIDS
+http://83.139.104.99/Content/HLS/Live/Channel(orlando_kids)/Stream(03)/index.m3u8
+#EXTINF:-1,OK BAMBINO
+http://83.139.104.99/Content/HLS/Live/Channel(ok_bambino)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV MUSIC
+http://83.139.104.99/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8
+#EXTINF:-1,TV ISTRA
+http://83.139.104.99/Content/HLS/Live/Channel(tv_istra)/Stream(03)/index.m3u8
+#EXTINF:-1,ZDRAVA TV
+http://83.139.104.99/Content/HLS/Live/Channel(ZDRAVA_TV-7)/Stream(03)/index.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://83.139.104.99/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+#EXTINF:-1,GINX
+http://83.139.104.99/Content/HLS/Live/Channel(ginx)/Stream(03)/index.m3u8
+#EXTINF:-1,JADRAN TV
+http://83.139.104.99/Content/HLS/Live/Channel(tv_jadran)/Stream(03)/index.m3u8
+#EXTINF:-1,NOVA TV PULA
+http://83.139.104.99/Content/HLS/Live/Channel(tv_nova)/Stream(03)/index.m3u8
+20.2.2015
+
+#EXTM3U 
+#EXTINF:0, Rossija 
+http://euro.online.hls.cn.ru/streaming/rossija/126/tvrec/playlist.m3u8 
+#EXTINF:0, NTV 
+http://euro.online.hls.cn.ru/streaming/ntv/126/tvrec/playlist.m3u8 
+#EXTINF:0, 5 Kanal 
+http://euro.online.hls.cn.ru/streaming/5kanal/126/tvrec/playlist.m3u8 
+#EXTINF:0, OTS 
+http://hls.cn.ru/streaming/ots/16/tvrec/playlist.m3u8 
+#EXTINF:0, TV 3 
+http://euro.online.hls.cn.ru/streaming/tv3/126/tvrec/playlist.m3u8 
+#EXTINF:0, 49 Kanal 
+http://hls.cn.ru/streaming/49kanal/16/tvrec/playlist.m3u8 
+#EXTINF:0,Kultura 
+http://euro.online.hls.cn.ru/streaming/kultura/126/tvrec/playlist.m3u8 
+#EXTINF:0, Novoe Televidenie 
+http://hls.cn.ru/streaming/novoe_televidenie/318/tvrec/playlist.m3u8 
+#EXTINF:0, Karusel 
+http://hls.cn.ru/streaming/karusel/16/tvrec/playlist.m3u8 
+#EXTINF:0, Motherchi 
+http://euro.online.hls.cn.ru/streaming/motherchi/126/tvrec/playlist.m3u8 
+#EXTINF:0, SMILE 
+http://euro.online.hls.cn.ru/streaming/smile/126/tvrec/playlist.m3u8 
+#EXTINF:0, Multimania 
+http://hls.cn.ru/streaming/multimania/16/tvrec/playlist.m3u8 
+#EXTINF:0, 24 Doc 
+http://euro.online.hls.cn.ru/streaming/24doc/126/tvrec/playlist.m3u8 
+#EXTINF:0, 24 Techno 
+http://hls.cn.ru/streaming/24techno/16/tvrec/playlist.m3u8 
+#EXTINF:0, 1 OBRAZ 
+http://euro.online.hls.cn.ru/streaming/1_obraz/126/tvrec/playlist.m3u8 
+#EXTINF:0, TBN 
+http://euro.online.hls.cn.ru/streaming/tbn/126/tvrec/playlist.m3u8 
+#EXTINF:0, CNL 
+http://live.cnl.tv:1935/cnl-eu/cnl-eu/playlist.m3u8 
+#EXTINF:0, TVXXI 
+http://hls.cn.ru/streaming/tv21/16/tvrec/playlist.m3u8 
+#EXTINF:0, NSTV 
+http://hls.cn.ru/streaming/nstv/16/tvrec/playlist.m3u8 
+#EXTINF:0, IPARK 
+http://hls.cn.ru/streaming/ipark/16/tvrec/playlist.m3u8 
+#EXTINF:0, TV Trailer 
+http://hls.cn.ru/streaming/tvtrailer/16/tvrec/playlist.m3u8 
+#EXTINF:0, VESTI 
+http://euro.online.hls.cn.ru/streaming/vesti/126/tvrec/playlist.m3u8 
+#EXTINF:0, RBK 
+http://euro.online.hls.cn.ru/streaming/rbk/126/tvrec/playlist.m3u8 
+#EXTINF:0,MIR 24 
+http://hls.cn.ru/streaming/mir24/16/tvrec/playlist.m3u8 
+#EXTINF:0, EuroNews 
+http://euro.online.hls.cn.ru/streaming/euronews/126/tvrec/playlist.m3u8 
+#EXTINF:0, Russia Today 
+http://hls.cn.ru/streaming/russiatoday/16/tvrec/playlist.m3u8 
+#EXTINF:0, Lifenews 
+http://hls.cn.ru/streaming/lifenews/16/tvrec/playlist.m3u8 
+#EXTINF:0, Friday 
+http://euro.online.hls.cn.ru/streaming/friday/126/tvrec/playlist.m3u8 
+#EXTINF:0, 2×2 
+http://euro.online.hls.cn.ru/streaming/2x2tv/126/tvrec/playlist.m3u8 
+#EXTINF:0, Zvezda 
+http://euro.online.hls.cn.ru/streaming/zvezda/126/tvrec/playlist.m3u8 
+#EXTINF:0, JV 
+http://hls.cn.ru/streaming/jv/16/tvrec/playlist.m3u8 
+#EXTINF:0, Yumor TV 
+http://hls.cn.ru/streaming/yumor_tv/16/tvrec/playlist.m3u8 
+#EXTINF:0, GlobalStar TV 
+http://euro.online.hls.cn.ru/streaming/globalstartv/126/tvrec/playlist.m3u8 
+#EXTINF:0, HardLife TV 
+http://euro.online.hls.cn.ru/streaming/hardlife_tv/126/tvrec/playlist.m3u8 
+#EXTINF:0, Shopping Live 
+http://hls.cn.ru/streaming/shopping_live/16/tvrec/playlist.m3u8 
+#EXTINF:0, Balance 
+http://hls.cn.ru/streaming/balance/126/tvrec/playlist.m3u8 
+#EXTINF:0, STRK 
+http://hls.cn.ru/streaming/strk/126/hd/playlist.m3u8 
+#EXTINF:0, TVMChannel 
+http://euro.online.hls.cn.ru/streaming/tvmchannel/126/tvrec/playlist.m3u8 
+#EXTINF:0, LDPR TV 
+http://hls.cn.ru/streaming/ldpr_tv/16/tvrec/playlist.m3u8 
+#EXTINF:0, A-One 
+http://euro.online.hls.cn.ru/streaming/aone/126/tvrec/playlist.m3u8 
+#EXTINF:0, Music Box RU 
+http://euro.online.hls.cn.ru/streaming/musboxru/126/tvrec/playlist.m3u8 
+#EXTINF:0, Music Box TV 
+http://hls.cn.ru/streaming/musboxtv/16/tvrec/playlist.m3u8 
+#EXTINF:0, JuCeTV 
+http://euro.online.hls.cn.ru/streaming/juce/126/tvrec/playlist.m3u8 
+#EXTINF:0, MTV.AM 
+http://mtvam.ru/hlsam/playlist.m3u8 
+#EXTINF:0, SPORT 
+http://euro.online.hls.cn.ru/streaming/sport/126/tvrec/playlist.m3u8 
+#EXTINF:0, Futbol 
+http://euro.online.hls.cn.ru/streaming/futbol/126/tvrec/playlist.m3u8 
+#EXTINF:0, 1HD 
+http://hls.cn.ru/streaming/firstmuz/16/hd/playlist.m3u8 
+#EXTINF:0, PIK HD 
+http://euro.online.hls.cn.ru/streaming/pik_hd/126/hd/playlist.m3u8 
+
+
+
+
+
+#EXTINF:-1, Sporttv1
+http://cdn-02.sdn.si/sporttv1/sporttv1.m3u8
+#EXTINF:-1, Sporttv2
+http://cdn-02.sdn.si/sporttv2/sporttv2.m3u8
+#EXTINF:-1, Sporttv3
+http://cdn-02.sdn.si/sporttv3/sporttv3.m3u8
+#EXTINF:-1,Trace sports
+http://cdn-02.sdn.si/tracesports/tracesports.m3u8
+#EXTINF:-1,ORF 1 
+http://cdn-02.sdn.si/orf1/orf1.m3u8 
+#EXTINF:-1,ORF 1 
+http://cdn-02.sdn.si/orf2/orf2.m3u8 
+#EXTINF:-1,RAI 1 
+http://cdn-02.sdn.si/rai1/rai1.m3u8 
+#EXTINF:-1,FASHION 
+http://cdn-02.sdn.si/fashiontv/fashiontv.m3u8 
+#EXTINF:-1,MTV ROCK 
+http://cdn-02.sdn.si/mtvrocks/mtvrocks.m3u8 
+#EXTINF:-1,MTV HITS 
+http://cdn-02.sdn.si/mtvhits/mtvhits.m3u8 
+#EXTINF:-1,MTV DANCE 
+http://cdn-02.sdn.si/mtvdance/mtvdance.m3u8
+#EXTINF:-1,VH1 
+http://cdn-02.sdn.si/vh1/vh1.m3u8
+#EXTINF:-1,VH1 CLASSIC 
+http://cdn-02.sdn.si/vh1classic/vh1classic.m3u8 
+#EXTINF:-1,RTCG SAT 
+http://cdn-02.sdn.si/rtcg/rtcg.m3u8 
+#EXTINF:-1,RTS SAT 
+http://cdn-02.sdn.si/rts/rts.m3u8 
+#EXTINF:-1,PRO 7 
+http://cdn-02.sdn.si/pro7/pro7.m3u8 
+#EXTINF:-1,CBS DRAMA 
+http://cdn-02.sdn.si/cbsdrama/cbsdrama.m3u8
+
+
+
+ #EXTINF:-1,CINESTAR
+http://83.139.104.103/Content/HLS/Live/Channel(cinestar_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR AT
+http://83.139.104.103/Content/HLS/Live/Channel(CINESTAR_ACTION_AND_THRILLER)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://83.139.104.103/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR PREMHERE 2
+http://83.139.104.103/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8
+#EXTINF:-1,KINO TV
+http://83.139.104.103/Content/HLS/Live/Channel(kino_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,N1
+http://83.139.104.103/Content/HLS/Live/Channel(n1)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL
+http://83.139.104.103/Content/HLS/Live/Channel(rtl_televizija)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL 2
+http://83.139.104.103/Content/HLS/Live/Channel(rtl_2)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL KOCKICA
+http://83.139.104.103/Content/HLS/Live/Channel(rtl_kockica)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL PLUS
+http://83.139.104.103/Content/HLS/Live/Channel(rtlplus)/Stream(03)/index.m3u8
+#EXTINF:-1,VOX
+http://83.139.104.103/Content/HLS/Live/Channel(vox_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,EUROSPORT
+http://83.139.104.103/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://83.139.104.103/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1,SPORTSKA TV
+http://83.139.104.103/Content/HLS/Live/Channel(sportska_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,EXTREME SPORTS
+http://83.139.104.103/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8
+#EXTINF:-1,FIGHT CHANNEL
+http://83.139.104.103/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://83.139.104.103/Content/HLS/Live/Channel(discovery_channel)/index.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://83.139.104.103/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://83.139.104.103/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://83.139.104.103/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://83.139.104.103/Content/HLS/Live/Channel(travel_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 1
+http://83.139.104.103/Content/HLS/Live/Channel(HTV1)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 2
+http://83.139.104.103/Content/HLS/Live/Channel(HTV2)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 3
+http://83.139.104.103/Content/HLS/Live/Channel(HTV3)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 4
+http://83.139.104.103/Content/HLS/Live/Channel(HTV4)/Stream(03)/index.m3u8
+#EXTINF:-1,CMC
+http://83.139.104.103/Content/HLS/Live/Channel(cmc)/Stream(03)/index.m3u8
+#EXTINF:-1,KLASIK TV
+http://83.139.104.103/Content/HLS/Live/Channel(klasik_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV
+http://83.139.104.103/Content/HLS/Live/Channel(mtv)/Stream(03)/index.m3u8
+#EXTINF:-1,24 SATA
+http://83.139.104.103/Content/HLS/Live/Channel(24_sata)/Stream(03)/index.m3u8
+#EXTINF:-1,MREZA ZG
+http://83.139.104.103/Content/HLS/Live/Channel(mrezaZG)/Stream(03)/index.m3u8
+#EXTINF:-1,MREZA ST
+http://83.139.104.103/Content/HLS/Live/Channel(mrezaST)/Stream(03)/index.m3u8
+#EXTINF:-1,CBS REALITY
+http://83.139.104.103/Content/HLS/Live/Channel(cbs_reality)/Stream(03)/index.m3u8
+#EXTINF:-1,JUGOTON
+http://83.139.104.103/Content/HLS/Live/Channel(jugoton)/Stream(03)/index.m3u8
+#EXTINF:-1,NARODNA TV
+http://83.139.104.103/Content/HLS/Live/Channel(narodna_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,FASHION
+http://83.139.104.103/Content/HLS/Live/Channel(fashion_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,OSJECKA
+http://83.139.104.103/Content/HLS/Live/Channel(osjecka_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,SBTV
+http://83.139.104.112/Content/HLS/Live/Channel(sbtv)/Stream(03)/index.m3u8
+#EXTINF:-1,MEDIASET IT
+http://83.139.104.103/Content/HLS/Live/Channel(mediaset_italia)/Stream(03)/index.m3u8
+#EXTINF:-1,RTB TV
+http://83.139.104.103/Content/HLS/Live/Channel(rtb_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,AL JAZEERA
+http://83.139.104.103/Content/HLS/Live/Channel(al_jazeera_balkans)/Stream(03)/index.m3u8
+#EXTINF:-1,DMC
+http://83.139.104.103/Content/HLS/Live/Channel(DMC)/Stream(03)/index.m3u8
+#EXTINF:-1,SRCE TV
+http://83.139.104.103/Content/HLS/Live/Channel(srce_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,KANAL 5
+http://83.139.104.103/Content/HLS/Live/Channel(kanal_5)/Stream(03)/index.m3u8
+#EXTINF:-1,KANAL RI
+http://83.139.104.103/Content/HLS/Live/Channel(KanalRI)/Stream(03)/index.m3u8
+#EXTINF:-1,VARAZDISKA TV
+http://83.139.104.103/Content/HLS/Live/Channel(VTV_varazdin)/Stream(03)/index.m3u8
+#EXTINF:-1,FULL TV
+http://83.139.104.103/Content/HLS/Live/Channel(fullTV)/Stream(03)/index.m3u8
+#EXTINF:-1,MEDIATRAVEL
+http://83.139.104.103/Content/HLS/Live/Channel(mediatravel)/Stream(03)/index.m3u8
+#EXTINF:-1,ORLANDO KIDS
+http://83.139.104.103/Content/HLS/Live/Channel(orlando_kids)/Stream(03)/index.m3u8
+#EXTINF:-1,OK BAMBINO
+http://83.139.104.103/Content/HLS/Live/Channel(ok_bambino)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV MUSIC
+http://83.139.104.103/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8
+#EXTINF:-1,TV ISTRA
+http://83.139.104.103/Content/HLS/Live/Channel(tv_istra)/Stream(03)/index.m3u8
+#EXTINF:-1,ZDRAVA TV
+http://83.139.104.103/Content/HLS/Live/Channel(ZDRAVA_TV-7)/Stream(03)/index.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://83.139.104.103/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+#EXTINF:-1,GINX
+http://83.139.104.103/Content/HLS/Live/Channel(ginx)/Stream(03)/index.m3u8
+#EXTINF:-1,JADRAN TV
+http://83.139.104.103/Content/HLS/Live/Channel(tv_jadran)/Stream(03)/index.m3u8
+#EXTINF:-1,NOVA TV PULA
+http://83.139.104.103/Content/HLS/Live/Channel(tv_nova)/Stream(03)/index.m3u8
+
+#EXTINF:0,BRAZZERS +18
+http://83.139.104.103/Content/HLS/Live/Channel(brazzers_tv)/Stream(03)/index.m3u8
+#EXTINF:0,DORCEL TV +18
+http://83.139.104.103/Content/HLS/Live/Channel(dorcel_tv)/Stream(03)/index.m3u8
+#EXTINF:0,P LAYBOY TV +18
+http://83.139.104.103/Content/HLS/Live/Channel(*******_tv)/Stream(03)/index.m3u8
+17.2.2015
+
+#EXTINF:-1,CINESTAR
+http://83.139.104.112/Content/HLS/Live/Channel(cinestar_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR AT
+http://83.139.104.112/Content/HLS/Live/Channel(CINESTAR_ACTION_AND_THRILLER)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://83.139.104.112/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR PREMHERE 2
+http://83.139.104.112/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8
+#EXTINF:-1,KINO TV
+http://83.139.104.112/Content/HLS/Live/Channel(kino_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,N1
+http://83.139.104.112/Content/HLS/Live/Channel(n1)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL
+http://83.139.104.112/Content/HLS/Live/Channel(rtl_televizija)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL 2
+http://83.139.104.112/Content/HLS/Live/Channel(rtl_2)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL KOCKICA
+http://83.139.104.112/Content/HLS/Live/Channel(rtl_kockica)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL PLUS
+http://83.139.104.112/Content/HLS/Live/Channel(rtlplus)/Stream(03)/index.m3u8
+#EXTINF:-1,VOX
+http://83.139.104.112/Content/HLS/Live/Channel(vox_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,EUROSPORT
+http://83.139.104.112/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://83.139.104.112/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1,SPORTSKA TV
+http://83.139.104.112/Content/HLS/Live/Channel(sportska_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,EXTREME SPORTS
+http://83.139.104.112/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8
+#EXTINF:-1,FIGHT CHANNEL
+http://83.139.104.112/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://83.139.104.112/Content/HLS/Live/Channel(discovery_channel)/index.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://83.139.104.112/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://83.139.104.112/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://83.139.104.112/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://83.139.104.112/Content/HLS/Live/Channel(travel_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 1
+http://83.139.104.112/Content/HLS/Live/Channel(HTV1)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 2
+http://83.139.104.112/Content/HLS/Live/Channel(HTV2)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 3
+http://83.139.104.112/Content/HLS/Live/Channel(HTV3)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 4
+http://83.139.104.112/Content/HLS/Live/Channel(HTV4)/Stream(03)/index.m3u8
+#EXTINF:-1,CMC
+http://83.139.104.112/Content/HLS/Live/Channel(cmc)/Stream(03)/index.m3u8
+#EXTINF:-1,KLASIK TV
+http://83.139.104.112/Content/HLS/Live/Channel(klasik_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV
+http://83.139.104.112/Content/HLS/Live/Channel(mtv)/Stream(03)/index.m3u8
+#EXTINF:-1,24 SATA
+http://83.139.104.112/Content/HLS/Live/Channel(24_sata)/Stream(03)/index.m3u8
+#EXTINF:-1,MREZA ZG
+http://83.139.104.112/Content/HLS/Live/Channel(mrezaZG)/Stream(03)/index.m3u8
+#EXTINF:-1,MREZA ST
+http://83.139.104.112/Content/HLS/Live/Channel(mrezaST)/Stream(03)/index.m3u8
+#EXTINF:-1,CBS REALITY
+http://83.139.104.112/Content/HLS/Live/Channel(cbs_reality)/Stream(03)/index.m3u8
+#EXTINF:-1,JUGOTON
+http://83.139.104.112/Content/HLS/Live/Channel(jugoton)/Stream(03)/index.m3u8
+#EXTINF:-1,NARODNA TV
+http://83.139.104.112/Content/HLS/Live/Channel(narodna_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,FASHION
+http://83.139.104.112/Content/HLS/Live/Channel(fashion_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,OSJECKA
+http://83.139.104.112/Content/HLS/Live/Channel(osjecka_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,SBTV
+http://83.139.104.112/Content/HLS/Live/Channel(sbtv)/Stream(03)/index.m3u8
+#EXTINF:-1,MEDIASET IT
+http://83.139.104.112/Content/HLS/Live/Channel(mediaset_italia)/Stream(03)/index.m3u8
+#EXTINF:-1,RTB TV
+http://83.139.104.112/Content/HLS/Live/Channel(rtb_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,AL JAZEERA
+http://83.139.104.112/Content/HLS/Live/Channel(al_jazeera_balkans)/Stream(03)/index.m3u8
+#EXTINF:-1,DMC
+http://83.139.104.112/Content/HLS/Live/Channel(DMC)/Stream(03)/index.m3u8
+#EXTINF:-1,SRCE TV
+http://83.139.104.112/Content/HLS/Live/Channel(srce_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,KANAL 5
+http://83.139.104.112/Content/HLS/Live/Channel(kanal_5)/Stream(03)/index.m3u8
+#EXTINF:-1,KANAL RI
+http://83.139.104.112/Content/HLS/Live/Channel(KanalRI)/Stream(03)/index.m3u8
+#EXTINF:-1,VARAZDISKA TV
+http://83.139.104.112/Content/HLS/Live/Channel(VTV_varazdin)/Stream(03)/index.m3u8
+#EXTINF:-1,FULL TV
+http://83.139.104.112/Content/HLS/Live/Channel(fullTV)/Stream(03)/index.m3u8
+#EXTINF:-1,MEDIATRAVEL
+http://83.139.104.112/Content/HLS/Live/Channel(mediatravel)/Stream(03)/index.m3u8
+#EXTINF:-1,ORLANDO KIDS
+http://83.139.104.112/Content/HLS/Live/Channel(orlando_kids)/Stream(03)/index.m3u8
+#EXTINF:-1,OK BAMBINO
+http://83.139.104.112/Content/HLS/Live/Channel(ok_bambino)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV MUSIC
+http://83.139.104.112/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8
+#EXTINF:-1,TV ISTRA
+http://83.139.104.112/Content/HLS/Live/Channel(tv_istra)/Stream(03)/index.m3u8
+#EXTINF:-1,ZDRAVA TV
+http://83.139.104.112/Content/HLS/Live/Channel(ZDRAVA_TV-7)/Stream(03)/index.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://83.139.104.112/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+#EXTINF:-1,GINX
+http://83.139.104.112/Content/HLS/Live/Channel(ginx)/Stream(03)/index.m3u8
+#EXTINF:-1,JADRAN TV
+http://83.139.104.112/Content/HLS/Live/Channel(tv_jadran)/Stream(03)/index.m3u8
+#EXTINF:-1,NOVA TV PULA
+http://83.139.104.112/Content/HLS/Live/Channel(tv_nova)/Stream(03)/index.m3u8
+15.2.2015
+
+
+#EXTM3U
+#EXTINF:0,24 SATA
+http://83.139.104.101/Content/HLS/Live/Channel(24_sata)/Stream(03)/index.m3u8
+#EXTINF:0,AL JAZEERA
+http://83.139.104.99/Content/HLS/Live/Channel(al_jazeera_balkans)/Stream(03)/index.m3u8
+#EXTINF:0,ANIMAL PLANET
+http://83.139.104.101:80/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8
+#EXTINF:0,BRAZZERS
+http://83.139.104.101/Content/HLS/Live/Channel(brazzers_tv)/Stream(03)/index.m3u8
+#EXTINF:0,CBS REALITY
+http://83.139.104.101/Content/HLS/Live/Channel(cbs_reality)/Stream(03)/index.m3u8
+#EXTINF:0,CINESTAR
+http://83.139.104.101/Content/HLS/Live/Channel(cinestar_tv)/Stream(03)/index.m3u8
+#EXTINF:0,CINESTAR ACTION
+http://83.139.104.101/Content/HLS/Live/Channel(CINESTAR_ACTION_AND_THRILLER)/Stream(03)/index.m3u8
+#EXTINF:0,CINESTAR PREMIERE 1
+http://83.139.104.101/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8
+#EXTINF:0,CINESTAR PREMIERE 2
+http://83.139.104.101/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8
+#EXTINF:0,CMC
+http://83.139.104.101/Content/HLS/Live/Channel(cmc)/Stream(03)/index.m3u8
+#EXTINF:0,DISCOVERY CHANNEL
+http://83.139.104.101/Content/HLS/Live/Channel(discovery_channel)/index.m3u8
+#EXTINF:0,DMC
+http://83.139.104.101/Content/HLS/Live/Channel(DMC)/Stream(03)/index.m3u8
+#EXTINF:0,DORCEL TV
+http://83.139.104.101/Content/HLS/Live/Channel(dorcel_tv)/Stream(03)/index.m3u8
+#EXTINF:0,EUROSPORT
+http://83.139.104.101/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+#EXTINF:0,EUROSPORT 2
+http://83.139.104.101/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:0,EXTREME SPORTS
+http://83.139.104.101/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8
+#EXTINF:0,FASHION
+http://83.139.104.101/Content/HLS/Live/Channel(fashion_tv)/Stream(03)/index.m3u8
+#EXTINF:0,FIGHT CHANNEL
+http://83.139.104.101/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
+#EXTINF:0,FINE LIVING
+http://83.139.104.101/Content/HLS/Live/Channel(fine_living)/Stream(03)/index.m3u8
+#EXTINF:0,FOOD NETWORK
+http://83.139.104.101/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+#EXTINF:0,FULL TV
+http://83.139.104.101/Content/HLS/Live/Channel(fullTV)/Stream(03)/index.m3u8
+#EXTINF:0,GINX
+http://83.139.104.101/Content/HLS/Live/Channel(ginx)/Stream(03)/index.m3u8
+#EXTINF:0,HRT 1
+http://83.139.104.101/Content/HLS/Live/Channel(HTV1)/Stream(03)/index.m3u8
+#EXTINF:0,HRT 2
+http://83.139.104.101/Content/HLS/Live/Channel(HTV2)/Stream(03)/index.m3u8
+#EXTINF:0,HRT 3
+http://83.139.104.101/Content/HLS/Live/Channel(HTV3)/Stream(03)/index.m3u8
+#EXTINF:0,HRT 4
+http://83.139.104.101/Content/HLS/Live/Channel(HTV4)/Stream(03)/index.m3u8
+#EXTINF:0,JADRAN TV
+http://83.139.104.101/Content/HLS/Live/Channel(tv_jadran)/Stream(03)/index.m3u8
+#EXTINF:0,JUGOTON
+http://83.139.104.101/Content/HLS/Live/Channel(jugoton)/Stream(03)/index.m3u8
+#EXTINF:0,KANAL 5
+http://83.139.104.101/Content/HLS/Live/Channel(kanal_5)/Stream(03)/index.m3u8
+#EXTINF:0,KANAL RI
+http://83.139.104.101/Content/HLS/Live/Channel(KanalRI)/Stream(03)/index.m3u8
+#EXTINF:0,KINO TV
+http://83.139.104.101/Content/HLS/Live/Channel(kino_tv)/Stream(03)/index.m3u8
+#EXTINF:0,KLASIK TV
+http://83.139.104.101/Content/HLS/Live/Channel(klasik_tv)/Stream(03)/index.m3u8
+#EXTINF:0,MEDIASET IT
+http://83.139.104.101/Content/HLS/Live/Channel(mediaset_italia)/Stream(03)/index.m3u8
+#EXTINF:0,MEDIATRAVEL
+http://83.139.104.101/Content/HLS/Live/Channel(mediatravel)/Stream(03)/index.m3u8
+#EXTINF:0,MREZA ST
+http://83.139.104.101/Content/HLS/Live/Channel(mrezaST)/Stream(03)/index.m3u8
+#EXTINF:0,MREZA ZG
+http://83.139.104.101/Content/HLS/Live/Channel(mrezaZG)/Stream(03)/index.m3u8
+#EXTINF:0,MTV
+http://83.139.104.101/Content/HLS/Live/Channel(mtv)/Stream(03)/index.m3u8
+#EXTINF:0,MTV MUSIC
+http://83.139.104.101/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8
+#EXTINF:0,NARODNA TV
+http://83.139.104.101/Content/HLS/Live/Channel(narodna_tv)/Stream(03)/index.m3u8
+#EXTINF:0,NOVA TV PULA
+http://83.139.104.101/Content/HLS/Live/Channel(tv_nova)/Stream(03)/index.m3u8
+#EXTINF:0,OK BAMBINO
+http://83.139.104.101/Content/HLS/Live/Channel(ok_bambino)/Stream(03)/index.m3u8
+#EXTINF:0,ORLANDO KIDS
+http://83.139.104.101/Content/HLS/Live/Channel(orlando_kids)/Stream(03)/index.m3u8
+#EXTINF:0,OSJECKA
+http://83.139.104.101/Content/HLS/Live/Channel(osjecka_tv)/Stream(03)/index.m3u8
+#EXTINF:0,******* TV
+http://83.139.104.103/Content/HLS/Live/Channel(*******_tv)/Stream(03)/index.m3u8
+#EXTINF:0,RTB TV
+http://83.139.104.101/Content/HLS/Live/Channel(rtb_tv)/Stream(03)/index.m3u8
+#EXTINF:0,RTL
+http://83.139.104.101/Content/HLS/Live/Channel(rtl_televizija)/Stream(03)/index.m3u8
+#EXTINF:0,RTL 2
+http://83.139.104.101/Content/HLS/Live/Channel(rtl_2)/Stream(03)/index.m3u8
+#EXTINF:0,RTL KOCKICA
+http://83.139.104.101/Content/HLS/Live/Channel(rtl_kockica)/Stream(03)/index.m3u8
+#EXTINF:0,RTL PLUS
+http://83.139.104.101/Content/HLS/Live/Channel(rtlplus)/Stream(03)/index.m3u8
+#EXTINF:0,SBTV
+http://83.139.104.101/Content/HLS/Live/Channel(sbtv)/Stream(03)/index.m3u8
+#EXTINF:0,SPORT KLUB 1
+http://83.139.104.101/Content/HLS/Live/Channel(Sk_1)/Stream(03)/index.m3u8
+#EXTINF:0,SPORT KLUB 3
+http://83.139.104.101/Content/HLS/Live/Channel(Sk_3)/Stream(03)/index.m3u8
+#EXTINF:0,SPORTSKA TV
+http://83.139.104.101/Content/HLS/Live/Channel(sportska_tv)/Stream(03)/index.m3u8
+#EXTINF:0,SRCE TV
+http://83.139.104.101/Content/HLS/Live/Channel(srce_tv)/Stream(03)/index.m3u8
+#EXTINF:0,TLC
+http://83.139.104.101/Content/HLS/Live/Channel(TLC)/Stream(03)/index.m3u8
+#EXTINF:0,TRAVEL CHANNEL
+http://83.139.104.101/Content/HLS/Live/Channel(travel_channel)/Stream(03)/index.m3u8
+#EXTINF:0,TV ISTRA
+http://83.139.104.101/Content/HLS/Live/Channel(tv_istra)/Stream(03)/index.m3u8
+#EXTINF:0,VARAZDISKA TV
+http://83.139.104.101/Content/HLS/Live/Channel(VTV_varazdin)/Stream(03)/index.m3u8
+#EXTINF:0,VIASAT EXPLORER
+http://83.139.104.101/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8
+#EXTINF:0,VIASAT HISTORY
+http://83.139.104.101/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8
+#EXTINF:0,VOX
+http://83.139.104.101/Content/HLS/Live/Channel(vox_tv)/Stream(03)/index.m3u8
+#EXTINF:0,ZDRAVA TV
+http://83.139.104.101/Content/HLS/Live/Channel(ZDRAVA_TV-7)/Stream(03)/index.m3u8
+
+13.2.2015
+
+
+ #EXTINF:-1 "Musica",Q Musica
+mms://streamqm.uigc.net/qmusica
+#EXTINF:-1 "Musica",HD720 MTV LIVE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=429&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Musica",HD720 TELEHIT
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=433&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Musica",HD720 VH HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=437&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Musica",HD720 MTV
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=441&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Musica",HD720 RITMOSON
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=445&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Musica",HD720 BANDAMAX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=449&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Musica",HD720 BLOOMBERG
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=457&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Musica",HD1024 PX HITS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=475&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Musica",HD1024 MTV LIVE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=430&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Musica",HD1024 TELEHIT
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=434&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Musica",HD1024 VH HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=438&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Musica",HD1024 MTV
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=442&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Musica",HD1024 RITMOSON
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=446&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Musica",HD1024 BANDAMAX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=450&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Musica",HD1024 BLOOMBERG
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=458&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 "Deportes",HD720 ESPNHD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=389&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Deportes",HD720 ESPN
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Deportes",HD720 FOXSPORT
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=397&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Deportes",HD720 FOXSPORT+
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=401&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Deportes",HD720 ESPN
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=405&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Deportes",HD720 ESPN2
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=409&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 "Deportes",HD1024 ESPNHD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=390&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Deportes",HD1024 ESPN
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=394&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Deportes",HD1024 FOXSPORT
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=398&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Deportes",HD1024 FOXSPORT+
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=402&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Deportes",HD1024 ESPN
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=406&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Deportes",HD1024 ESPN2
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=410&lan=2&rows=40&f=.m3u8
+
+
+
+#EXTINF:-1 "Dibujos",HD720 Boomerang
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=229&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD720 DISCOVERY KIDS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=193&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD720 CBEEBIES
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=197&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD720 DISNEY JR
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=201&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD720 NICK JR
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=205&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD720 DISNEY CHANNEL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD720 NICK HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=213&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD720 NICK
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=217&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD720 CARTOON NETWORK
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD720 DISNEY XD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=225&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD720 TIIN
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=233&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD720 TOONCAST
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=237&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD720 NICKTOONS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=465&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",BOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+
+#EXTINF:-1 "Dibujos",HD1024 Boomerang
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=230&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD1024 DISCOVERY KIDS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=194&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD1024 CBEEBIES
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=198&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD1024 DISNEY JR
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=202&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD1024 NICK JR
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=206&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD1024 DISNEY CHANNEL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=210&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD1024 NICK HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=214&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD1024 NICK
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=218&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD1024 CARTOON NETWORK
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=222&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD1024 DISNEY XD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=226&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD1024 TIIN
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=234&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD1024 TOONCAST
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=238&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Dibujos",HD1024 NICKTOONS
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=466&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 "Dibujos",BABY TV HD
+http://ilg.club/streamlink.m3u8?channel_id=7773f3cef0334a28ad248552ea63d9e7&bitrate=800 
+
+#‎EXTINF‬:-1 "Peliculas",Mobie City 2 HD
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+#EXTINF:-1 "Peliculas",Mobie City MAX
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-1 "Peliculas",Mobie City ACTION
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1 "Peliculas",Mobie City BOLLYWOOD
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:-1 "Peliculas",Mobie City 4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+#EXTINF:-1 "Peliculas",Moviemax-Premier
+rtmp://dodo38.dgn35.com:1935/live/Moviemax-Premier?token=073murat
+#EXTINF:-1 "Peliculas",movie-stars
+rtmp://dodo38.dgn35.com:1935/live/movie-stars?token=073murat
+#EXTINF:-1 "Peliculas",Star World HD
+ilg.club/streamlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9&bitrate=800
+#EXTINF:-1 "Peliculas",Movie city action HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=302&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HBO HD
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+#EXTINF:-1 "Series",HD720 FOX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=85&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Series",HD720 FOX M
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=125&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Interes general",HD720 FOX LIFE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=169&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 FOX1 HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=297&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 FOX ACTION HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=301&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 FOX MOVIE HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=305&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 FOX CINEMA
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=337&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 FOX FAMILY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=341&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 FOX CLASSIC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=345&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 "Peliculas",HD720 CINECANAL HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=309&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 CINECANAL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=349&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 TNT HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=313&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 TNT
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=357&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 GOLDEN HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=317&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 GOLDEN EDGE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=361&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 FILM ZONE HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=321&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 DPELICULA HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=325&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 AMC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=329&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 AMC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=365&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 SPACE HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=333&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 SPACE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=369&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 CINEMAX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=353&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 STUDIO UNIVERSAL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=373&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 ISAT
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=377&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD720 TCM
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=381&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 "Series",HD720 SONY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=89&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Series",HD720 WARNER
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=93&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Series",HD720 UNIVERSAL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=97&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Series",HD720 UNIVERSAL M
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=137&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Series",HD720 FX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=101&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Series",HD720 FX M
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=145&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 "Series",HD1024 FOX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=86&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Series",HD1024 FOX M
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=126&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Interes general",HD1024 FOX LIFE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=170&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 FOX1 HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=298&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 FOX ACTION HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=302&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 FOX MOVIE HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=306&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 FOX CINEMA
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=338&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 FOX FAMILY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=342&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 FOX CLASSIC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=346&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 CINECANAL HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=310&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 CINECANAL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=350&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 TNT HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=314&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 TNT
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=358&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 GOLDEN HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=318&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 FILM ZONE HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=322&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 DPELICULA HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=326&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 AMC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=330&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 AMC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=366&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 SPACE HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=334&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 SPACE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=370&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 CINEMAX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=354&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 GOLDEN EDGE
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=362&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 STUDIO UNIVERSAL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=374&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 ISAT
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=378&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Peliculas",HD1024 TCM
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=382&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 "Series",HD1024 SONY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=90&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Series",HD1024 WARNER
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=94&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Series",HD1024 UNIVERSAL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=98&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Series",HD1024 UNIVERSAL M
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=138&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Series",HD1024 FX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=102&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 "Series",HD1024 FX M
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=146&lan=2&rows=40&f=.m3u8
+
+
+
+#‎EXTINF‬:-1,EUROSPORT 1
+ http://p21.sdn.si/eurosport/eurosport.m3u8
+ #EXTINF:-1,EUROSPORT 2
+ http://p21.sdn.si/eurosport2/eurosport2.m3u8
+ #EXTINF:-1,SPORT TV 1 HD
+ http://p21.sdn.si/sporttv1/sporttv1.m3u8
+ #EXTINF:-1,SPORT TV 2 HD
+ http://p21.sdn.si/sporttv2/sporttv2.m3u8
+ #EXTINF:-1,SPORT TV 3 HD
+ http://p21.sdn.si/sporttv3/sporttv3.m3u8
+ #EXTINF:-1,SLO 1 HD
+ http://p21.sdn.si/slo1/slo1.m3u8
+ #EXTINF:-1,SLO 2 HD
+ http://p21.sdn.si/slo2/slo2.m3u8
+ #EXTINF:-1,PLANET TV HD
+ http://p21.sdn.si/planettv/planettv.m3u8
+ #EXTINF:-1,POP TV
+ http://p21.sdn.si/poptv/poptv.m3u8
+ #EXTINF:-1,KANAL A
+ http://p21.sdn.si/kanala/kanala.m3u8
+ #EXTINF:-1,MINIMAX
+ http://p21.sdn.si/minimax/minimax.m3u8
+ #EXTINF:-1,ORLANDO KIDS
+ http://p21.sdn.si/orlandokids/orlandokids.m3u8
+ #EXTINF:-1,24 KITCHEN
+ http://p21.sdn.si/24kitchen/24kitchen.m3u8
+ #EXTINF:-1,GINX
+ http://p21.sdn.si/ginx/ginx.m3u8
+ #EXTINF:-1,DISCOVERY
+ http://p21.sdn.si/discoverychannel/discoverychannel.m3u8
+ #EXTINF:-1,BBC KNOWLEDGE
+ http://p21.sdn.si/bbcknowledge/bbcknowledge.m3u8
+ #EXTINF:-1,CRIME INVESTIGATION
+ http://p21.sdn.si/crimeinvestigation/crimeinvestigation.m3u8
+ #EXTINF:-1,ANIMAL PLANET
+ http://p21.sdn.si/animalplanet/animalplanet.m3u8
+ #EXTINF:-1,NAT GEO
+ http://p21.sdn.si/natgeo/natgeo.m3u8
+ #EXTINF:-1,NAT GEO WILD
+ http://p21.sdn.si/natgeowild/natgeowild.m3u8
+ #EXTINF:-1,TRAVEL CHANNEL
+ http://p21.sdn.si/travelchannel/travelchannel.m3u8
+ #EXTINF:-1,DA VINCI LEARNING
+ http://p21.sdn.si/davincilearning/davincilearning.m3u8
+ #EXTINF:-1,TLC
+ http://p21.sdn.si/tlc/tlc.m3u8
+ #EXTINF:-1,HISTORY
+ http://p21.sdn.si/historychannel/historychannel.m3u8
+ #EXTINF:-1,OBN
+ http://p21.sdn.si/obn/obn.m3u8
+ #EXTINF:-1,HAYAT
+ http://p21.sdn.si/hayat/hayat.m3u8
+ #EXTINF:-1,OUTDOOR
+ http://p21.sdn.si/outdoorchannel/outdoorchannel.m3u8
+ #EXTINF:-1,FOX
+ http://p21.sdn.si/fox/fox.m3u8
+ #EXTINF:-1,FOX CRIME
+ http://p21.sdn.si/foxcrime/foxcrime.m3u8
+ #EXTINF:-1,FOX LIFE
+ http://p21.sdn.si/foxlife/foxlife.m3u8
+ #EXTINF:-1,FOX MOVIES
+ http://p21.sdn.si/foxmovies/foxmovies.m3u8
+ #EXTINF:-1,POP KINO
+ http://p21.sdn.si/popkino/popkino.m3u8
+ #EXTINF:-1,POP OTO
+ http://p21.sdn.si/popoto/popoto.m3u8
+ #EXTINF:-1,POP BRIO
+ http://p21.sdn.si/popbrio/popbrio.m3u8
+ #EXTINF:-1,CARTOON NETWORK
+ http://p21.sdn.si/cartoonnetwork/cartoonnetwork.m3u8
+ #EXTINF:-1,DISNEY
+ http://p21.sdn.si/disneychannel/disneychannel.m3u8
+ #EXTINF:-1,DISNEY XD
+ http://p21.sdn.si/disneyxd/disneyxd.m3u8
+ #EXTINF:-1,NICKELODEON
+ http://p21.sdn.si/nickelodeon/nickelodeon.m3u8
+ #EXTINF:-1,BOOMERANG
+ http://p21.sdn.si/boomerang/boomerang.m3u8
+ #EXTINF:-1,JIMJAM
+ http://p21.sdn.si/jimjam/jimjam.m3u8
+ #EXTINF:-1,BABY TV
+ http://p21.sdn.si/babytv/babytv.m3u8
+ #EXTINF:-1,EXTREME SPORTS
+ http://p21.sdn.si/extreme/extreme.m3u8
+ #EXTINF:-1,MTV ADRIA
+ http://p21.sdn.si/mtvadria/mtvadria.m3u8
+ #EXTINF:-1,FASHION
+ http://p21.sdn.si/fashiontv/fashiontv.m3u8
+ #EXTINF:-1,MTV ROCKS
+ http://p21.sdn.si/mtvrocks/mtvrocks.m3u8
+ #EXTINF:-1,MTV HITS
+ http://p21.sdn.si/mtvhits/mtvhits.m3u8
+ #EXTINF:-1,MTV DANCE
+ http://p21.sdn.si/mtvdance/mtvdance.m3u8
+ #EXTINF:-1,VH1
+ http://p21.sdn.si/vh1/vh1.m3u8
+ #EXTINF:-1,VH1 CLASSIC
+ http://p21.sdn.si/vh1classic/vh1classic.m3u8
+ #EXTINF:-1,CMC
+ http://p21.sdn.si/cmc/cmc.m3u8
+ #EXTINF:-1,TV GOLICA
+ http://p21.sdn.si/tvgolica/tvgolica.m3u8
+ #EXTINF:-1,HRT 1
+ http://p21.sdn.si/hrt1/hrt1.m3u8
+ #EXTINF:-1,HRT 2
+ http://p21.sdn.si/hrt2/hrt2.m3u8
+ #EXTINF:-1,ORF 1
+ http://p21.sdn.si/orf1/orf1.m3u8
+ #EXTINF:-1,ORF 2
+ http://p21.sdn.si/orf2/orf2.m3u8
+ #EXTINF:-1,RAI 1
+ http://p21.sdn.si/rai1/rai1.m3u8
+ #EXTINF:-1,RTCG SAT
+ http://p21.sdn.si/rtcg/rtcg.m3u8
+ #EXTINF:-1,RTS SAT
+ http://p21.sdn.si/rts/rts.m3u8
+ #EXTINF:-1,PRO 7
+ http://p21.sdn.si/pro7/pro7.m3u8
+ #EXTINF:-1,BBC WORLD
+ http://p21.sdn.si/bbcworld/bbcworld.m3u8
+ #EXTINF:-1,CBS DRAMA
+ http://p21.sdn.si/cbsdrama/cbsdrama.m3u8
+ #EXTINF:-1,CNN
+ http://p21.sdn.si/cnn/cnn.m3u8
+ #EXTINF:-1,BLOOMBERG
+ http://p21.sdn.si/bloomberg/bloomberg.m3u8
+ #EXTINF:-1,NAUTICAL CHANNEL
+ http://p21.sdn.si/nauticalchannel/nauticalchannel.m3u8
+ #EXTINF:-1,TV3 MEDIAS
+ http://p21.sdn.si/tv3medias/tv3medias.m3u8
+ #EXTINF:-1,TRACE SPORT
+ http://p21.sdn.si/tracesports/tracesports.m3u8
+
+
+
+ #EXTM3U
+#EXTINF:0,24 SATA
+http://83.139.104.98/Content/HLS/Live/Channel(24_sata)/Stream(03)/index.m3u8
+#EXTINF:0,AL JAZEERA
+http://83.139.104.98/Content/HLS/Live/Channel(al_jazeera_balkans)/Stream(03)/index.m3u8
+#EXTINF:0,ANIMAL PLANET
+http://83.139.104.98:80/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8
+#EXTINF:0,CBS REALITY
+http://83.139.104.98/Content/HLS/Live/Channel(cbs_reality)/Stream(03)/index.m3u8
+#EXTINF:0,CINESTAR
+http://83.139.104.98/Content/HLS/Live/Channel(cinestar_tv)/Stream(03)/index.m3u8
+#EXTINF:0,CINESTAR ACTION
+http://83.139.104.98/Content/HLS/Live/Channel(CINESTAR_ACTION_AND_THRILLER)/Stream(03)/index.m3u8
+#EXTINF:0,CINESTAR PREMIERE 1
+http://83.139.104.98/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8
+#EXTINF:0,CINESTAR PREMIERE 2
+http://83.139.104.98/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8
+#EXTINF:0,CMC
+http://83.139.104.98/Content/HLS/Live/Channel(cmc)/Stream(03)/index.m3u8
+#EXTINF:0,DISCOVERY CHANNEL
+http://83.139.104.98/Content/HLS/Live/Channel(discovery_channel)/index.m3u8
+#EXTINF:0,DMC
+http://83.139.104.98/Content/HLS/Live/Channel(DMC)/Stream(03)/index.m3u8
+#EXTINF:0,EUROSPORT
+http://83.139.104.98/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+#EXTINF:0,EUROSPORT 2
+http://83.139.104.98/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:0,EXTREME SPORTS
+http://83.139.104.98/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8
+#EXTINF:0,FASHION
+http://83.139.104.98/Content/HLS/Live/Channel(fashion_tv)/Stream(03)/index.m3u8
+#EXTINF:0,FIGHT CHANNEL
+http://83.139.104.98/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
+#EXTINF:0,FINE LIVING
+http://83.139.104.98/Content/HLS/Live/Channel(fine_living)/Stream(03)/index.m3u8
+#EXTINF:0,FOOD NETWORK
+http://83.139.104.98/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+#EXTINF:0,FULL TV
+http://83.139.104.98/Content/HLS/Live/Channel(fullTV)/Stream(03)/index.m3u8
+#EXTINF:0,GINX
+http://83.139.104.98/Content/HLS/Live/Channel(ginx)/Stream(03)/index.m3u8
+#EXTINF:0,HRT 1
+http://83.139.104.98/Content/HLS/Live/Channel(HTV1)/Stream(03)/index.m3u8
+#EXTINF:0,HRT 2
+http://83.139.104.98/Content/HLS/Live/Channel(HTV2)/Stream(03)/index.m3u8
+#EXTINF:0,HRT 3
+http://83.139.104.98/Content/HLS/Live/Channel(HTV3)/Stream(03)/index.m3u8
+#EXTINF:0,HRT 4
+http://83.139.104.98/Content/HLS/Live/Channel(HTV4)/Stream(03)/index.m3u8
+#EXTINF:0,JADRAN TV
+http://83.139.104.98/Content/HLS/Live/Channel(tv_jadran)/Stream(03)/index.m3u8
+#EXTINF:0,JUGOTON
+http://83.139.104.98/Content/HLS/Live/Channel(jugoton)/Stream(03)/index.m3u8
+#EXTINF:0,KANAL 5
+http://83.139.104.98/Content/HLS/Live/Channel(kanal_5)/Stream(03)/index.m3u8
+#EXTINF:0,KANAL RI
+http://83.139.104.98/Content/HLS/Live/Channel(KanalRI)/Stream(03)/index.m3u8
+#EXTINF:0,KINO TV
+http://83.139.104.98/Content/HLS/Live/Channel(kino_tv)/Stream(03)/index.m3u8
+#EXTINF:0,KLASIK TV
+http://83.139.104.98/Content/HLS/Live/Channel(klasik_tv)/Stream(03)/index.m3u8
+#EXTINF:0,MEDIASET IT
+http://83.139.104.98/Content/HLS/Live/Channel(mediaset_italia)/Stream(03)/index.m3u8
+#EXTINF:0,MEDIATRAVEL
+http://83.139.104.98/Content/HLS/Live/Channel(mediatravel)/Stream(03)/index.m3u8
+#EXTINF:0,MREZA ST
+http://83.139.104.98/Content/HLS/Live/Channel(mrezaST)/Stream(03)/index.m3u8
+#EXTINF:0,MREZA ZG
+http://83.139.104.98/Content/HLS/Live/Channel(mrezaZG)/Stream(03)/index.m3u8
+#EXTINF:0,MTV
+http://83.139.104.98/Content/HLS/Live/Channel(mtv)/Stream(03)/index.m3u8
+#EXTINF:0,MTV MUSIC
+http://83.139.104.98/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8
+#EXTINF:0,NARODNA TV
+http://83.139.104.98/Content/HLS/Live/Channel(narodna_tv)/Stream(03)/index.m3u8
+#EXTINF:0,NOVA TV PULA
+http://83.139.104.98/Content/HLS/Live/Channel(tv_nova)/Stream(03)/index.m3u8
+#EXTINF:0,OK BAMBINO
+http://83.139.104.98/Content/HLS/Live/Channel(ok_bambino)/Stream(03)/index.m3u8
+#EXTINF:0,ORLANDO KIDS
+http://83.139.104.98/Content/HLS/Live/Channel(orlando_kids)/Stream(03)/index.m3u8
+#EXTINF:0,OSJECKA
+http://83.139.104.98/Content/HLS/Live/Channel(osjecka_tv)/Stream(03)/index.m3u8
+#EXTINF:0,RTB TV
+http://83.139.104.98/Content/HLS/Live/Channel(rtb_tv)/Stream(03)/index.m3u8
+#EXTINF:0,RTL
+http://83.139.104.98/Content/HLS/Live/Channel(rtl_televizija)/Stream(03)/index.m3u8
+#EXTINF:0,RTL 2
+http://83.139.104.98/Content/HLS/Live/Channel(rtl_2)/Stream(03)/index.m3u8
+#EXTINF:0,RTL KOCKICA
+http://83.139.104.98/Content/HLS/Live/Channel(rtl_kockica)/Stream(03)/index.m3u8
+#EXTINF:0,RTL PLUS
+http://83.139.104.98/Content/HLS/Live/Channel(rtlplus)/Stream(03)/index.m3u8
+#EXTINF:0,SBTV
+http://83.139.104.98/Content/HLS/Live/Channel(sbtv)/Stream(03)/index.m3u8
+#EXTINF:0,SPORT KLUB 1
+http://83.139.104.98/Content/HLS/Live/Channel(Sk_1)/Stream(03)/index.m3u8
+#EXTINF:0,SPORT KLUB 3
+http://83.139.104.98/Content/HLS/Live/Channel(Sk_3)/Stream(03)/index.m3u8
+#EXTINF:0,SPORTSKA TV
+http://83.139.104.98/Content/HLS/Live/Channel(sportska_tv)/Stream(03)/index.m3u8
+#EXTINF:0,SRCE TV
+http://83.139.104.98/Content/HLS/Live/Channel(srce_tv)/Stream(03)/index.m3u8
+#EXTINF:0,TLC
+http://83.139.104.98/Content/HLS/Live/Channel(TLC)/Stream(03)/index.m3u8
+#EXTINF:0,TRAVEL CHANNEL
+http://83.139.104.98/Content/HLS/Live/Channel(travel_channel)/Stream(03)/index.m3u8
+#EXTINF:0,TV ISTRA
+http://83.139.104.98/Content/HLS/Live/Channel(tv_istra)/Stream(03)/index.m3u8
+#EXTINF:0,VARAZDISKA TV
+http://83.139.104.98/Content/HLS/Live/Channel(VTV_varazdin)/Stream(03)/index.m3u8
+#EXTINF:0,VIASAT EXPLORER
+http://83.139.104.98/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8
+#EXTINF:0,VIASAT HISTORY
+http://83.139.104.98/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8
+#EXTINF:0,VOX
+http://83.139.104.98/Content/HLS/Live/Channel(vox_tv)/Stream(03)/index.m3u8
+#EXTINF:0,ZDRAVA TV
+http://83.139.104.98/Content/HLS/Live/Channel(ZDRAVA_TV-7)/Stream(03)/index.m3u8
+
+11.2.2015
+
+FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+
+FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+
+FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+
+CINECANAL +
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
+
+TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
+
+GOLDEN HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+
+FILM ZONE HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+
+DE PELICULA HD
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?
+
+AMC
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?
+
+SPACE HD
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
+
+
+  ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+
+ FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+
+ FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+
+ ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+
+ ESPN2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+
+ AZTECA 7
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?
+
+ MTV LIVE
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+
+ TELEHIT
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
+
+ VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
+
+ MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
+
+ BANDAMAX
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
+
+ A AND E
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
+
+ AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+
+
+ COMEDY CENTRAL
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+
+ FOX
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
+
+ BBC
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+
+ E
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
+
+ UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
+
+ SYFY
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
+
+ FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
+
+
+ INF
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
+
+ GOURMET
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
+
+ GLITZ
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
+
+ FOX LIFE
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?
+
+ DISTRITO COMEDIA
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?
+
+ TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
+
+ CASA
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?
+
+ TELENOVELAS
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
+
+ DISCOVERY KIDS
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+
+ CBEEBIES
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
+
+ DISNEY JR
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+
+ NICK JR
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+
+ DISNEY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+
+ NICK HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+
+ NICK
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
+
+ CARTOON NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+
+ DISNEY XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+
+ BOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+
+ TOONCAST
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
+
+ TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
+
+ DISCOVERY HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+
+ HISTORY
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
+
+ NAT GEO WILD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
+
+ TLC HD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+
+ DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
+
+ ANIMAL PLANET
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+
+ NAT GEO
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+
+ #TURBO
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
+
+ D SCI
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
+
+ D. CIVILIZATION
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
+
+ TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
+
+ WOBI
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
+
+ FOX CINEMA
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+
+ FOX FAMILY
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+
+ FOX CLASSICS
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+
+ CINECANAL
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?
+
+ TNT
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?
+
+ GOLDEN EDGE
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?
+
+ AMC
+http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?
+
+ STUDIO UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
+
+ TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
+
+
+ CANAL DE LAS ESTRELLAS
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
+
+ FORO TV
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?
+
+ CANAL 5
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?
+
+ AZTECA 7
+http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?
+
+ CANAL ONCE
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?
+9.2.2015
+
+ #EXTINF:-1, ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+ #EXTINF:-1, ESPN2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+ #EXTINF:-1, AZTECA 7
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?
+ #EXTINF:-1, MTV LIVE
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+ #EXTINF:-1, TELEHIT
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
+ #EXTINF:-1, VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
+ #EXTINF:-1, MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
+ #EXTINF:-1, BANDAMAX
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
+ #EXTINF:-1, A AND E
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
+ #EXTINF:-1, AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+ #EXTINF:-1, COMEDY CENTRAL
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+ #EXTINF:-1, FOX
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
+ #EXTINF:-1, BBC
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+ #EXTINF:-1, E
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
+ #EXTINF:-1, UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
+ #EXTINF:-1, SYFY
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
+ #EXTINF:-1, FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
+ #EXTINF:-1, INF
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
+ #EXTINF:-1, GOURMET
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
+ #EXTINF:-1, GLITZ
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
+ #EXTINF:-1, FOX LIFE
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?
+ #EXTINF:-1, DISTRITO COMEDIA
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?
+ #EXTINF:-1, TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
+ #EXTINF:-1, CASA
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?
+ #EXTINF:-1, TELENOVELAS
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
+ #EXTINF:-1, DISCOVERY KIDS
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+ #EXTINF:-1, CBEEBIES
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
+ #EXTINF:-1, DISNEY JR
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+ #EXTINF:-1, NICK JR
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+ #EXTINF:-1, DISNEY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+ #EXTINF:-1, NICK HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+ #EXTINF:-1, NICK
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
+ #EXTINF:-1, CARTOON NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+ #EXTINF:-1, DISNEY XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+ #EXTINF:-1, BOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+ #EXTINF:-1, TOONCAST
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
+ #EXTINF:-1, TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
+ #EXTINF:-1, DISCOVERY HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+ #EXTINF:-1, HISTORY
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
+ #EXTINF:-1, NAT GEO WILD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
+ #EXTINF:-1, TLC HD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+ #EXTINF:-1, DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
+ #EXTINF:-1, ANIMAL PLANET
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+ #EXTINF:-1, NAT GEO
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+ #EXTINF:-1, TURBO
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
+ #EXTINF:-1, D SCI
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
+ #EXTINF:-1, D. CIVILIZATION
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
+ #EXTINF:-1, TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
+ #EXTINF:-1, WOBI
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
+ #EXTINF:-1, FOX CINEMA
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+ #EXTINF:-1, FOX FAMILY
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+ #EXTINF:-1, FOX CLASSICS
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+ #EXTINF:-1, CINECANAL
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?
+ #EXTINF:-1, TNT
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?
+ #EXTINF:-1, GOLDEN EDGE
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?
+ #EXTINF:-1, AMC
+http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?
+ #EXTINF:-1, STUDIO UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
+ #EXTINF:-1, TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
+5.2.2015
+
+#EXTINF:-1,GINX
+http://cdn-07.sdn.si/ginx/ginx.m3u8
+#EXTINF:-1,DISCOVERY
+http://cdn-07.sdn.si/discoverychannel/discoverychannel.m3u8
+#EXTINF:-1,CRIME INVESTIGATION
+http
