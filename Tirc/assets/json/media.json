@@ -1,0 +1,16 @@
+{
+	"channels":[
+		{
+			"type":"m3u8",
+			"name":"RedeTV!",
+			"logo":"redetv.png",
+			"url":"http://evp.mm.uol.com.br:1935/redetv2/_definst_/redetv2/playlist.m3u8"
+		},
+		{
+			"type":"m3u8",
+			"name":"Cartoon Network",
+			"logo":"cartoon-network.png",
+			"url":"http://213.163.65.116:8081/live/cartoon/playlist.m3u8"
+		}
+	]
+}
